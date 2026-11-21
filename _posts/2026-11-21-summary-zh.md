@@ -5,706 +5,757 @@ date: 2026-11-21
 lang: zh
 ---
 
-> 从 38 条内容中筛选出 30 条重要资讯。
+> 从 39 条内容中筛选出 31 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [Anthropic 数学家声称证明黎曼猜想](#item-tech-news-1) ⭐️ 9.0/10
-2. [Levent Alpöge 宣称证明广义黎曼假设](#item-tech-news-2) ⭐️ 8.0/10
-3. [Navier-Stokes 方程有限时间奇点证明](#item-tech-news-3) ⭐️ 8.0/10
-4. [Signal 限制 AI 代理访问移动平台用户数据](#item-tech-news-4) ⭐️ 7.0/10
-5. [陶哲轩：无外力 Navier-Stokes 奇点与广义黎曼假设](#item-tech-news-5) ⭐️ 7.0/10
-6. [Inkling 2 Mini AI 模型发布](#item-tech-news-6) ⭐️ 7.0/10
-7. [语言模型可自主重写自身权重](#item-tech-news-7) ⭐️ 7.0/10
-8. [TikTok 全球上线 AI 深度伪造检测工具](#item-tech-news-8) ⭐️ 7.0/10
-9. [OpenAI 后台模式上线：长任务异步处理降价 40%](#item-tech-news-9) ⭐️ 7.0/10
-10. [KVM 漏洞 CVE-2026-99312：AMD 主机内存可被虚拟机读取](#item-tech-news-10) ⭐️ 7.0/10
-11. [OpenAI 加强反蒸馏防护，提取成功率降至 0.2%](#item-tech-news-11) ⭐️ 7.0/10
-12. [美国 SEC 对英伟达会计问题的调查](#item-tech-news-12) ⭐️ 6.0/10
-13. [未经告知将开发者晋升为架构师](#item-tech-news-13) ⭐️ 5.0/10
-14. [Alessandro Masullo 提出广义黎曼假设证明](#item-tech-news-14) ⭐️ 5.0/10
-15. [美国收紧芯片出口 印度借机扩充 AI 算力](#item-tech-news-15) ⭐️ 5.0/10
-16. [苹果自主 AI 智能体研发，最早 2027 年末推出](#item-tech-news-16) ⭐️ 5.0/10
-17. [特斯拉高级辅助驾驶系统获准进入意大利](#item-tech-news-17) ⭐️ 5.0/10
-18. [余承东澄清享界 V8 L3 未开放](#item-tech-news-18) ⭐️ 5.0/10
-19. [Cursor 拟停用中国 AI 模型](#item-tech-news-19) ⭐️ 5.0/10
-20. [Gemini 上线 GIF 生成功能](#item-tech-news-20) ⭐️ 5.0/10
-21. [ChatGPT 向 Plus 用户开放 Space 协作空间](#item-tech-news-21) ⭐️ 5.0/10
+1. [Navier-Stokes 方程有限时间爆破证明](#item-tech-news-1) ⭐️ 9.0/10
+2. [Alpöge 宣称广义黎曼假设证明](#item-tech-news-2) ⭐️ 8.0/10
+3. [语言模型可通过自我推理重写自身权重](#item-tech-news-3) ⭐️ 8.0/10
+4. [陶哲轩：非强迫 Navier-Stokes 奇点与广义黎曼假设](#item-tech-news-4) ⭐️ 8.0/10
+5. [Levent Alpöge 使用 Claude 证明黎曼假设](#item-tech-news-5) ⭐️ 8.0/10
+6. [KVM 漏洞 CVE-2026-99312 允许虚拟机读取 AMD 主机内存](#item-tech-news-6) ⭐️ 8.0/10
+7. [台积电暂停对中国企业 16nm 及以下芯片订单](#item-tech-news-7) ⭐️ 8.0/10
+8. [Inkling 2 Mini：开源循环变换器小型语言模型](#item-tech-news-8) ⭐️ 7.0/10
+9. [苹果自主 AI 智能体开发计划曝光](#item-tech-news-9) ⭐️ 7.0/10
+10. [OpenAI 加强反蒸馏防护，提取成功率降至 0.2%](#item-tech-news-10) ⭐️ 7.0/10
+11. [AI 尝试解决黎曼假设引发 Hacker News 讨论](#item-tech-news-11) ⭐️ 6.0/10
+12. [开发者晋升架构师却未被告知](#item-tech-news-12) ⭐️ 6.0/10
+13. [Signal 限制移动平台 AI 代理数据捕获](#item-tech-news-13) ⭐️ 6.0/10
+14. [OpenAI API 后台模式上线](#item-tech-news-14) ⭐️ 6.0/10
+15. [随机鹦鹉声称证明黎曼假设](#item-tech-news-15) ⭐️ 5.0/10
+16. [美国 SEC 调查英伟达潜在会计问题](#item-tech-news-16) ⭐️ 5.0/10
+17. [美国收紧芯片出口 印度借机扩 AI 算力](#item-tech-news-17) ⭐️ 5.0/10
+18. [TikTok 全球上线 Likeness Detection 工具](#item-tech-news-18) ⭐️ 5.0/10
+19. [豆包 AI 下调模型倍率，八成办公任务免费](#item-tech-news-19) ⭐️ 5.0/10
+20. [特斯拉辅助驾驶获准进入意大利](#item-tech-news-20) ⭐️ 5.0/10
+21. [余承东澄清享界 V8 L2 时代](#item-tech-news-21) ⭐️ 5.0/10
+22. [Anthropic 数学家称用 Claude 证明黎曼猜想](#item-tech-news-22) ⭐️ 5.0/10
+23. [Cursor 考虑逐步停用中国 AI 模型](#item-tech-news-23) ⭐️ 5.0/10
+24. [Gemini 上线 GIF 生成功能](#item-tech-news-24) ⭐️ 5.0/10
+25. [ChatGPT 向 Plus 用户开放 Space 协作空间](#item-tech-news-25) ⭐️ 5.0/10
 
 **科技博客**
-1. [输出缓存为何无效](#item-tech-blog-1) ⭐️ 7.0/10
+1. [为什么输出缓存不工作](#item-tech-blog-1) ⭐️ 8.0/10
 
 **财经新闻**
-1. [沃什希望美联储官员少说话，但他们却在说更多](#item-finance-news-1) ⭐️ 7.0/10
-2. [美股牛市新问题：公司净发行股票](#item-finance-news-2) ⭐️ 7.0/10
-3. [阿里巴巴因隐瞒与黄仁勋外遇对象业务关系被股东起诉](#item-finance-news-3) ⭐️ 7.0/10
-4. [台积电暂停对中国企业 16nm 及以下芯片订单](#item-finance-news-4) ⭐️ 7.0/10
-5. [福特正式进入电池业务](#item-finance-news-5) ⭐️ 6.0/10
-6. [2026 年股票预测市场展望因 AI 抛售而黯淡](#item-finance-news-6) ⭐️ 5.0/10
-7. [APEC 峰会中美贸易台湾科技紧张局势未解决](#item-finance-news-7) ⭐️ 5.0/10
-8. [北京拟明确租房正常损耗不得扣减押金](#item-finance-news-8) ⭐️ 5.0/10
+1. [沃什希望美联储官员少谈前瞻指引，他们却在更多谈论利率](#item-finance-news-1) ⭐️ 7.0/10
+2. [牛市新问题：聪明钱在卖出](#item-finance-news-2) ⭐️ 7.0/10
+3. [北京拟明确租房正常损耗不得扣减押金](#item-finance-news-3) ⭐️ 7.0/10
+4. [2026 年标普 500 突破 8000 点预测市场概率降至 6%](#item-finance-news-4) ⭐️ 5.0/10
+5. [美中贸易台湾科技紧张局势在特朗普返回亚洲后仍未解决](#item-finance-news-5) ⭐️ 5.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [Anthropic 数学家声称证明黎曼猜想](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) ⭐️ 9.0/10
+### [Navier-Stokes 方程有限时间爆破证明](https://github.com/tristanbuckmaster/navier-stokes/) ⭐️ 9.0/10
 
-Anthropic 数学家 Levent Alpöge 声称，他借助 Claude AI 证明了黎曼猜想。相关证明已用 Lean 编码发布，文稿超过 25 万页。该方法还可扩展到广义黎曼猜想。该声明尚未被独立验证，但可能为数学领域带来巨大变革。
+Tristan Buckmaster 和 Alpoge 证明了无外力 Navier-Stokes 方程在有限时间内会发生爆破。这项结果为数学流体力学领域带来了重大突破。
 
-telegram · zaihuapd · 11月20日 15:29
+hackernews · trotro · 11月20日 15:34 · [社区讨论](https://news.ycombinator.com/item?id=50576232)
 
-**「黎曼猜想简介」** 黎曼猜想是由德国数学家伯恩哈德·黎曼于 1859 年提出的著名未解难题。该猜想涉及素数的分布规律，声称素数在数轴上的位置实际上由一种复杂的、有意义的顺序决定，而非随机。
+**「Navier-Stokes 方程的千禧难题」** Navier-Stokes 方程由 Navier 和 Stokes 于 1822 年提出，是描述粘性流体运动的偏微分方程组。该方程组是克莱数学研究所七大千禧难题之一，问题在于是否存在全局光滑解或是否会在有限时间内发生奇点。该方程组被视为有效理论，在分子尺度上流动变化缓慢时有效。
+
+**「潜在影响」** 这一发现为流体动力学建模提供了新的见解，并可能影响对湍流现象的理解。
+
+**「社区观点」** 社区成员认为这一结果是当天最重要的数学成就之一，并强调了无外力版本的独特性。有人希望看到物理演示来直观理解方程与现实的偏差。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove Riemann hypothesis , most...</a></li>
-<li><a href="https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/">Anthropic mathematician claims AI-assisted proof of the Riemann ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy">Navier–Stokes priority controversy - Wikipedia</a></li>
+<li><a href="https://www.nature.com/articles/s42005-026-02930-y">The Navier-Stokes equations blow up, and planes still fly</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Mathematics`, `#Riemann Hypothesis`, `#Lean`, `#Formal Verification`
+**标签**: `#Mathematics`, `#Fluid Dynamics`, `#Navier-Stokes Equations`, `#Millennium Problem`, `#Scientific Breakthrough`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Levent Alpöge 宣称证明广义黎曼假设](https://alpo.ge/remark.pdf) ⭐️ 8.0/10
+### [Alpöge 宣称广义黎曼假设证明](https://alpo.ge/remark.pdf) ⭐️ 8.0/10
 
-Levent Alpöge 宣称已证明广义黎曼假设，这是一个核心的数论开放问题。该结果已正式化在 Lean 定理证明器中，形成一个 1.3GB 的代码库，包含 1500 万行代码。该形式化工作由 Alpöge 完成，并通过其网站 alpo.ge 提供下载。
+Levent Alpöge 宣称已证明广义黎曼假设（GRH），该证明使用 Lean 定理证明器形式化，文件大小为 1.3GB，代码行数约为 1500 万。该形式化目前可通过 alpo.ge 网站下载。此宣布代表了形式化方法在数论领域的重要进展。
 
 hackernews · iamronaldo · 11月20日 14:16 · [社区讨论](https://news.ycombinator.com/item?id=50574968)
 
-**「黎曼猜想证明背景」** 人工智能公司 Anthropic 的数学家 Levent Alpöge 声称已证明广义黎曼猜想。该声明将证明形式化为 Lean 定理证明器中的 1.3GB 代码库，包含 1500 万行代码。Levent Alpöge 此前在解析数论领域发表了关于 Maass 形式 L 函数低位零点的论文，这些工作与黎曼猜想相关。
+**「广义黎曼猜想的形式化」** 广义黎曼猜想（GRH）是数论领域中的核心猜想，它将黎曼猜想推广到所有狄利克雷 L 函数，声称所有非平凡零点均位于 Re\(s\) = 1/2 的临界线上。Levent Alpöge 宣布使用 Claude AI 模型协助，在 Lean 4 定理证明器中形式化了一个 GRH 的证明，该形式化文件大小达 1.3GB，包含约 1500 万行代码。这项工作在 AI 辅助数学证明和形式化验证领域引发了讨论。
 
-**「社区讨论」** 评论中，Terence Tao 表示 AI 公司可能秘密投入大量时间于 Riemann 假设，但仍需超越当前 AI 的方法。其他用户注意到证明规模巨大（1.3GB，1500 万行代码），并讨论了 AI 与人类数学家合作的比例，以及证明长度的可读性担忧。
+**「影响」** 此形式化支持使用 Lean 进行 GRH 证明的自动化验证。已有独立验证报告，这可能加速数学形式化验证和 AI 辅助定理证明的发展。
+
+**「社区讨论」** Hacker News 上的讨论主要关注证明的巨大体积和下载过程。部分用户提到有独立验证和人类证明，同时引用 Terence Tao 的言论对 AI 发展时间表示担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.clarin.com/us-news/who-is-levent-alpoge-the-anthropic-mathematician-who-claims-solved-the-riemann-hypothesis-with-claude_0_2WdGvYKBVM.html">Who is Levent Alpöge ? The Anthropic mathematician who claims he...</a></li>
-<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove... | Scientific American</a></li>
-<li><a href="https://alpo.ge/">Levent Alpöge (</a></li>
+<li>Levent Alpöge claims to have found a proof of the Riemann Hypothesis</li>
+<li>Levent Alpöge claims proof of the Generalized Riemann Hypothesis ...</li>
+<li>Anthropic mathematician claims Riemann hypothesis proof with ...</li>
 
 </ul>
 </details>
 
-**标签**: `#Generalized Riemann Hypothesis`, `#Lean Theorem Prover`, `#Formal Verification`, `#AI in Mathematics`, `#Theorem Proving`
+**标签**: `#Generalized Riemann Hypothesis`, `#Lean Theorem Prover`, `#Formal Verification`, `#AI in Mathematics`, `#Mathematical Proof`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Navier-Stokes 方程有限时间奇点证明](https://github.com/tristanbuckmaster/navier-stokes/) ⭐️ 8.0/10
+### [语言模型可通过自我推理重写自身权重](https://arxiv.org/abs/2611.21885) ⭐️ 8.0/10
 
-Tristan Buckmaster 和合作者证明了无外力 Navier-Stokes 方程在有限时间内发生奇点的可能性。这项结果解决了该方程是否存在奇点的长期悬而未决的问题。该证明针对无外力情况，与之前需要外力才能证明奇点的结果不同。
+语言模型可以通过自我推理重写自身权重，而无需训练或梯度。arXiv 论文首次展示了这一能力，模型使用自生成的推理来测试编辑，仅提交有效编辑，在八个连续会话中准确率持续上升，成为更好的模型，无需外部更新。
 
-hackernews · trotro · 11月20日 15:34 · [社区讨论](https://news.ycombinator.com/item?id=50576232)
+hackernews · lwhsiao · 11月20日 16:29 · [社区讨论](https://news.ycombinator.com/item?id=50577265)
 
-**「Navier-Stokes 方程的存在与光滑性」** Navier-Stokes 方程是一组描述流体运动的偏微分方程。虽然计算解在大量实际应用中使用，但解的存在性和光滑性仍未完全理解。这一问题被列为数学七大千禧年大奖问题之一。
+**「背景」** 语言模型通常只训练一次，随后权重保持冻结；要让它变得更好，要么再进行依赖梯度的训练，要么在推理时使用提示、脚手架或额外计算，但这些改动会在任务结束后消失。与改写权重相邻的近期工作包括：权重空间编程探索让模型在不重新训练的情况下读取并编辑权重；谷歌研究在 2026 年 10 月介绍的 sleep 框架，则让模型在离线阶段停止处理新输入，用自生成的练习样本更新数值权重，并假定模型具备预先分配的混合专家（MoE）容量。
 
-**「社区讨论」** 评论者认为这是当天第二大结果，与 OpenAI 的强迫 Navier-Stokes 版本形成对比。有人提到可能与千年问题谣言相关，并讨论了实际模拟和物理演示的可能性。
+**「潜在影响」** 此能力可能被用于自主 AI 系统，但引发 AI 安全担忧，因为模型可修改自身以消除对齐机制。
+
+**「社区讨论」** 评论者注意到此方法与权重空间编程文章相似，仅缩短推理轨迹以避免令牌限制，并提到 Google 的“sleep”论文已展示类似能力。部分用户担忧此研究对 AI 安全的影响，如模型可自主消除安全相关激活。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness">Navier – Stokes existence and smoothness - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy">Navier–Stokes priority controversy - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2611.21885">[2611.21885] Language Models Can Rewrite Their Own Weights</a></li>
+<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Sparks of Weight - Space Programming : LLMs can natively read...</a></li>
+<li>Google Research Introduces LLM Sleep Framework | AIB</li>
+<li>Google Sleep Framework: LLMs That Learn Without Forgetting - explainx.ai</li>
 
 </ul>
 </details>
 
-**标签**: `#Navier-Stokes equations`, `#fluid dynamics`, `#PDEs`, `#mathematical breakthroughs`, `#computational simulations`
+**标签**: `#Language Models`, `#AI Self-Improvement`, `#Machine Learning`, `#Weight Editing`, `#AI Safety`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Signal 限制 AI 代理访问移动平台用户数据](https://signal.org/blog/protecting-your-privacy/) ⭐️ 7.0/10
+### [陶哲轩：非强迫 Navier-Stokes 奇点与广义黎曼假设](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) ⭐️ 8.0/10
 
-Signal 宣布了限制移动操作系统平台上 AI 代理访问用户数据的具体技术措施，包括聊天记录等敏感数据。这项变更针对 Signal 用户，特别是使用 Android 和 iOS 移动平台的用户，旨在应对最近 AI 讨论中突出的隐私挑战。这些措施是 Signal 为保护用户隐私而采取的直接行动。
+陶哲轩在其博客中宣布了非强迫 Navier-Stokes 奇点与广义黎曼假设的关联，并使用 AI 辅助定理证明工具在 Lean 定理证明器中正式验证了这一联系。该结果由菲尔兹奖获得者陶哲轩开发，桥接了流体力学和数论领域。这项形式化验证对相关领域的研究者具有重要意义。
 
-hackernews · dotcoma · 11月20日 09:42 · [社区讨论](https://news.ycombinator.com/item?id=50572348)
+hackernews · archon1410 · 11月20日 17:21 · [社区讨论](https://news.ycombinator.com/item?id=50578358)
 
-**「AI 代理集成引发的移动平台隐私担忧」** AI 代理集成到移动操作系统平台后，被描述为对隐私持敌对态度，它们可以通过截屏等功能捕获应用程序中的用户数据。这一发展引发了关于 AI 应用访问设备数据的广泛讨论。
+**「无外力 Navier-Stokes 奇点与广义黎曼假设」** Navier-Stokes 方程是描述黏性流体运动的基本偏微分方程组，其存在性和光滑性问题是克莱数学研究所的千禧年大奖难题之一，询问这些方程在给定初始条件下是否总是存在唯一的光滑解。广义黎曼假设是数论中的一个重要猜想，Terence Tao 的博客文章探讨了无外力 Navier-Stokes 奇点是否可能存在，并将其与广义黎曼假设联系起来。该结果据称已通过 AI 辅助定理证明工具在 Lean 证明系统中正式验证。
 
-**「对移动隐私的保护」** Signal 移动平台上的用户现在可以限制 AI 代理捕获他们的聊天数据，这直接回应了最近 AI 讨论中突出的隐私挑战。受影响的用户将减少数据泄露风险。
+**「AI 辅助定理证明对数学研究的影响」** Terence Tao 的博客将 Navier-Stokes 奇点与广义黎曼假设联系起来，并使用 Lean 定理证明器形式验证了这一结果。这一成果表明 AI 辅助定理证明可以验证复杂的数学连接，可能改变数学研究的验证方式，并对数学家的研究职业产生影响。
 
-**「社区讨论」** 用户对 Signal 限制 AI 代理访问数据表示支持，但提到即使没有安装应用，联系人仍可能泄露聊天记录。一些用户希望 Signal 发布调查发现，并建议使用 GrapheneOS 等替代操作系统来增强隐私控制。
+**「社区讨论」** 社区成员对 AI 在数学定理证明中的作用表现出兴奋与恐惧并存的情绪，有人担心 AI 可能取代人类研究者的角色。另有讨论指出独立内核的验证增强了结果的可靠性，但也有人质疑 AI 如何生成新的数学抽象概念。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://signal.org/blog/protecting-your-privacy/">Signal &gt;&gt; Blog &gt;&gt; Signal is Serious About Protecting Your Privacy</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app">Signal is blocking Gemini and Siri AI from reading your... | The Verge</a></li>
-<li><a href="https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/">Open and Emergent Problems in Agentic Privacy and Security: A ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12957209/">Both ends of artificial intelligence impacting privacy: a ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000423">Artificial intelligence and its implications for data privacy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness">Navier – Stokes existence and smoothness - Wikipedia</a></li>
+<li><a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/">Unforced Euler singularity , unforced Navier - Stokes singularity ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean (proof assistant ) - Wikipedia</a></li>
+<li><a href="https://www.wolframcloud.com/obj/jayantap/AIMath2025-26">AI for Mathematics : 2025–2026 Digest</a></li>
+<li><a href="https://chierhu.medium.com/lean-for-science-how-formal-proofs-can-change-mathematics-ai-and-scientific-computing-cc383c9ce020">Lean for Science: How Formal Proofs Can Change Mathematics , AI ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#mobile privacy`, `#Signal`, `#data protection`, `#operating systems`
+**标签**: `#artificial-intelligence`, `#formal-verification`, `#theorem-proving`, `#mathematics`, `#research`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [陶哲轩：无外力 Navier-Stokes 奇点与广义黎曼假设](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) ⭐️ 7.0/10
+### [Levent Alpöge 使用 Claude 证明黎曼假设](https://simonwillison.net/2026/Nov/20/levent-alpoge/) ⭐️ 8.0/10
 
-陶哲轩博客文章探讨了无外力 Navier-Stokes 奇点与广义黎曼假设之间的联系。该文章分析了流体力学方程中的奇点行为如何可能与数论中的广义黎曼假设相关联。该结果在黑客新闻上引发了关于 Lean 定理证明器形式验证的讨论。
+Levent Alpöge 声称，他与 Claude 合作发现了黎曼假设的证明。该方法可以轻松扩展到更远，解决所谓的广义黎曼假设，并有望在更多时间后解决扩展黎曼假设。他还与 Claude 合作对这些论点进行了形式化，没有任何假设。
 
-hackernews · archon1410 · 11月20日 17:21 · [社区讨论](https://news.ycombinator.com/item?id=50578358)
+rss · Simon Willison · 11月20日 16:30
 
-**「流体方程奇点与广义黎曼猜想」** 不可压缩欧拉方程和纳维-斯托克斯方程是描述流体运动的基本模型，在某些条件下可能产生奇点，这仍是数学中的重大开放问题。广义黎曼猜想是数论中将经典黎曼猜想推广到 L 函数的猜想，其在算术几何中的应用已有深入研究。陶哲轩最近的博客文章探讨了这些无外力奇点与广义黎曼猜想之间的联系，并利用人工智能辅助在 Lean 定理证明器中形式化了相关证明。
+**「黎曼假设简介」** 黎曼假设是由德国数学家伯恩哈德·黎曼在 1859 年提出的一个著名猜想，主要涉及素数在复数平面上的分布情况。它是七个千禧年大奖难题之一，尚未解决超过 160 年。
 
-**「社区讨论」** 社区讨论强调了该结果的正式验证。有人指出两个独立的内核接受了结果，这表明可能不存在内核漏洞；另一个用户质疑如何确保 Lean 构建真正验证了正确的内容，而不仅仅是表面通过。
+**「AI 辅助证明的深远影响」** 专家对 AI 辅助证明黎曼假设的分析显示其影响令人震惊，这可能为数学研究和 AI 开发者开辟新的研究路径。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/">Unforced Euler singularity, unforced Navier-Stokes ...</a></li>
-<li><a href="https://todayforai.com/en/items/art-87f06889-96c">Tao Reports AI-Assisted Proofs on Euler and Navier-Stokes ...</a></li>
-<li><a href="https://www.scientificamerican.com/article/what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future/">What the Riemann hypothesis proof really... | Scientific American</a></li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove Riemann hypothesis , most...</a></li>
+<li><a href="https://www.scientificamerican.com/article/what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future/">What the Riemann hypothesis proof really means about AI and the...</a></li>
+<li><a href="https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/">AI Proved the Quasi- Riemann Hypothesis . | Quanta Magazine</a></li>
+<li><a href="https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/">Anthropic mathematician claims AI -assisted proof of the Riemann ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Navier-Stokes singularity`, `#generalized Riemann hypothesis`, `#Lean theorem prover`, `#formal verification`, `#AI-assisted mathematics`
+**标签**: `#Riemann Hypothesis`, `#Claude`, `#AI Mathematics`, `#Anthropic`, `#Mathematical Breakthrough`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Inkling 2 Mini AI 模型发布](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 7.0/10
+### [KVM 漏洞 CVE-2026-99312 允许虚拟机读取 AMD 主机内存](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html) ⭐️ 8.0/10
 
-Thinking Machines 发布了 Inkling 2 Mini，这是一款紧凑型 AI 模型。通过创新的循环变换器架构和 nvfp4 训练，该模型实现了与 Qwen3.8-27B 相当的基准性能。该模型特别注重本地部署优化，并在实际编码测试中表现良好。
+CVE-2026-99312 漏洞存在于 Linux KVM 模块中，仅影响启用嵌套虚拟化的 AMD 主机。研究人员在 DigitalOcean 上从虚拟机内读取到约 127 GB 宿主内存。上游修复已于 11 月 18 日随稳定内核 7.3.5 等发布，Debian、Ubuntu 等发行版内核尚未修复，补丁到位前可关闭嵌套虚拟化。
 
-hackernews · jasondavies · 11月20日 20:12 · [社区讨论](https://news.ycombinator.com/item?id=50581260)
+telegram · zaihuapd · 11月20日 14:23
 
-**「循环变换器架构」** 循环变换器架构通过循环其中间层来实现更高效的推理。它允许模型在每个 token 上进行更多推理，从而在更少的 token 中生成答案。Thinking Machines Lab 的 Inkling 2 Mini 作为 Inkling 2 系列的最小模型，采用了这一架构，并结合了高效的本地部署优化。
+**「KVM 嵌套虚拟化支持」** Linux KVM 虚拟化模块支持 AMD CPU 的嵌套虚拟化功能，这允许在主机上运行嵌套的虚拟机。CVE-2026-99312 漏洞存在于该支持代码中，具体表现为一个陈旧指针问题，该漏洞在内核中存在近四年时间。英特尔 CPU 主机不受此漏洞影响，因为相关代码仅存在于 AMD 架构的支持中。
 
-**「实际影响」** 本地用户可高效在消费级硬件上运行该模型，减少对云服务的依赖。
-
-**「社区反馈」** 社区对该模型的本地性能和实际应用持乐观态度。用户报告了在 Ryzen 395 硬件上的解码速度，并讨论了循环变换器架构的模组性。
+**「主机内存泄露风险与缓解」** 在共享主机平台如 DigitalOcean 上，启用嵌套虚拟化的 AMD 主机可能导致虚拟机读取宿主内存，包括其他租户的虚拟机内存。研究人员展示了从虚拟机内读取 127 GB 宿主内存的能力。缓解措施是关闭嵌套虚拟化，即将 kvm\_amd 模块的 nested 参数设置为 0。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
-<li><a href="https://ai-tldr.dev/models/inkling-2-mini/">Inkling 2 Mini by Thinking Machines Lab: 26.4B looped MoE</a></li>
+<li><a href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html">Linux KVM Flaw CVE - 2026 - 99312 Lets Guest VMs Access Host...</a></li>
+<li><a href="https://www.digitalocean.com/blog/cve-2026-99312-kvm-patch">Virtualization, Responsible Disclosure, and CVE - 2026 - 99312</a></li>
+<li><a href="https://www.terra.security/blog/kvm-guest-to-host-escape">KVM Guest-to-Host Escape | Terra Security Research</a></li>
+<li><a href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html">Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host ...</a></li>
+<li><a href="https://www.digitalocean.com/blog/cve-2026-99312-kvm-patch">Virtualization , Responsible Disclosure, and... | DigitalOcean</a></li>
+<li><a href="https://www.terra.security/blog/kvm-guest-to-host-escape">KVM Guest-to- Host Escape | Terra Security Research</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI models`, `#LLM efficiency`, `#local deployment`, `#transformer architecture`, `#machine learning`
+**标签**: `#KVM`, `#vulnerability`, `#nested virtualization`, `#AMD`, `#Linux kernel`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [语言模型可自主重写自身权重](https://arxiv.org/abs/2611.21885) ⭐️ 7.0/10
+### [台积电暂停对中国企业 16nm 及以下芯片订单](https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls) ⭐️ 8.0/10
 
-arXiv 论文展示了语言模型能够通过自生成的推理和编辑验证自主重写其参数，从而在没有传统训练的情况下提高性能。该模型迭代地使用自推理过程，在练习问题上测试编辑版本，仅保留那些改进的版本。经过八个连续会话，模型的准确率仅上升，没有使用梯度或进行训练。
+台积电已通知客户暂停对中国企业供应 16nm 及以下先进制程芯片订单。根据收紧后的美国半导体出口新规，除非事先取得美国出口许可或豁免，否则不得供货。中国企业因此只能依赖 28nm、40nm 等旧制程，无法使用 AI 数据中心所需的高带宽内存。此前台积电可自行评估客户设计是否符合豁免条件，现需客户提前申请，美国获批名单包括苹果、AMD 和英伟达但尚未包括中国公司，台积电表示将遵守新规。
 
-hackernews · lwhsiao · 11月20日 16:29 · [社区讨论](https://news.ycombinator.com/item?id=50577265)
+telegram · zaihuapd · 11月21日 02:01
 
-**「睡眠框架与权重空间编程」** Google 的睡眠框架允许大型语言模型在离线阶段解锁预分配的混合专家内存块，并使用自生成的实践示例更新其数值权重，以实现持续学习而不遗忘先前技能。权重空间编程使代理能够读取模型的权重并通过自推理进行编辑以修复或改进性能。
+**「美国出口管制收紧」** 美国政府近年来加强了对中国先进半导体出口的管制措施。台积电等供应商必须遵守新规，为中国客户申请出口许可，否则无法供货。此前供应商可自行评估合规性，现需客户提前申请。
 
-**「潜在影响」** 此技术可能使语言模型开发者无需传统训练即可实现自主能力提升，支持递归自我改进循环，但也引发 AI 安全担忧，涉及自主修改对齐机制的风险。
-
-**「社区讨论」** 用户指出该方法与 Google 的“sleep”框架类似，后者在离线阶段使用自生成练习示例更新权重。另有讨论强调了自主模型修改带来的 AI 安全风险，如可能消除安全相关激活。
+**「中国芯片设计受限」** 受美国出口管制收紧影响，中国芯片设计公司将被限制在 28 纳米和 40 纳米等较旧制程上生产芯片，无法使用高带宽内存（HBM），这将直接影响 AI 数据中心的硬件开发。同时，他们需提前申请美国出口许可。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/">The sleep framework: A new way for LLMs to retain knowledge ...</a></li>
-<li><a href="https://huggingface.co/papers/2611.14210">Paper page - Tree-Ising: Repairing Language Models with Bit-Level...</a></li>
+<li><a href="https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/">[News] TSMC , Samsung Reportedly Pause China Consumer Chip ...</a></li>
+<li><a href="https://www.zerohedge.com/geopolitical/revealed-trump-admin-cleared-879868-nvidia-amd-ai-chips-china-third-pentagon-listed">Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For...</a></li>
+<li><a href="https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868041">TSMC tightens China AI chip curbs as new US rules close ...</a></li>
+<li><a href="https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/">TSMC tightens China AI chip curbs as new US rules close ...</a></li>
+<li><a href="https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls">TSMC has suspended some chip orders amid tighter export controls</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM self-modification`, `#weight editing`, `#AI safety`, `#recursive self-improvement`, `#no-training improvement`
+**标签**: `#semiconductors`, `#export controls`, `#TSMC`, `#AI hardware`, `#supply chain`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [TikTok 全球上线 AI 深度伪造检测工具](https://www.straitstimes.com/world/tiktok-launches-tool-to-help-public-figures-detect-deepfakes-globally) ⭐️ 7.0/10
+### [Inkling 2 Mini：开源循环变换器小型语言模型](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 7.0/10
 
-TikTok 于 2026 年 11 月 20 日起全球上线 Likeness Detection 工具。经第三方验证身份的公众人物和头部创作者可收到他人未经授权使用其形象生成 AI 内容的提示并举报。同日推出的透明工具允许任何人上传图片或视频，查询其是否由 TikTok 的 AI 功能生成，无需账号。TikTok 称此举有助于维护 2027 年欧洲多国选举，欧盟今年 8 月起已要求标注 AI 内容。
+Inkling 2 Mini 是一款开源权重的小型语言模型，使用循环变换器架构。该模型在真实世界场景中表现强劲，其基准测试与 Qwen3.8-27B 相当。模型使用 nvfp4 进行训练，并在消费级硬件上进行了本地推理优化。
 
-telegram · zaihuapd · 11月20日 08:14
+hackernews · jasondavies · 11月20日 20:12 · [社区讨论](https://news.ycombinator.com/item?id=50581260)
 
-**「TikTok AI 深度伪造检测工具的背景」** 欧盟在 2026 年 8 月起要求标注 AI 内容，以维护 2027 年欧洲多国选举的完整性。TikTok 全球上线 Likeness Detection 工具，允许任何人上传图片或视频查询其是否由 TikTok AI 功能生成，并为经第三方验证的公众人物提供未经授权使用其形象生成 AI 内容的报告。此举是 TikTok 应对 AI 深度伪造问题的重要举措，工具的测试已在 2026 年 7 月在美国部分创作者中启动。
+**「环形变换器原理」** 环形变换器是一种新型架构，它在每个 token 生成时重复运行模型的中间层三次。这种设计允许模型在相同 token 数量下应用更多推理步骤，从而更好地解决问题，尤其在代理编码等需要高质量推理的任务中。
 
-**「支持欧盟 AI 法案标注要求」** TikTok 的全球上线 Likeness Detection 工具允许任何人上传媒体查询是否由其 AI 功能生成，并为公众人物提供举报未经授权 AI 生成内容的提示。这有助于遵守欧盟的 AI 生成内容透明度行为准则，支持欧盟 AI Act 的标注和标签要求。
+**「社区反馈」** 社区用户高度赞扬了该模型的开源性和本地部署友好性，称其在实际测试中表现良好，并分享了 Ryzen 395 硬件上的速度测试结果和性能优化补丁。一些用户还讨论了其对安全性和可解释性的潜在影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.freemalaysiatoday.com/category/business/2026/11/20/tiktok-launches-tool-to-help-public-figures-detect-deepfakes-globally">TikTok launches tool to help public figures detect deepfakes globally</a></li>
-<li><a href="https://theoutpost.ai/news-story/tik-tok-tests-ai-likeness-detection-tool-to-help-creators-fight-unauthorized-deepfakes-28728/">TikTok Tests AI Likeness Detection Tool for Creators</a></li>
-<li><a href="https://best-ai.org/ai-news/tiktok-tests-ai-likeness-detection-tool-for-us-creators-to-combat-deepfakes-following-youtubes-earlier-launch-fj8qxj">TikTok Tests AI Likeness Detection Tool for US... | Best- AI .org</a></li>
-<li><a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content">Code of Practice on Transparency of AI-generated Content</a></li>
-<li><a href="https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content">EU Icons for labelling AI-generated content | Shaping Europe ...</a></li>
-<li><a href="https://aiethicsassessor.com/blog/how-to-label-ai-generated-content-in-the-eu">How to Label AI-Generated Content in the EU: Article 50 &amp; the ...</a></li>
+<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
 
 </ul>
 </details>
 
-**标签**: `#deepfake detection`, `#TikTok`, `#AI content verification`, `#misinformation prevention`, `#election integrity`
+**标签**: `#open source LLMs`, `#looped transformers`, `#local inference`, `#efficient AI models`, `#model releases`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [OpenAI 后台模式上线：长任务异步处理降价 40%](https://developers.openai.com/api/docs/guides/background) ⭐️ 7.0/10
+### [苹果自主 AI 智能体开发计划曝光](https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding) ⭐️ 7.0/10
 
-OpenAI API 推出后台模式，允许长耗时请求异步执行，最长可挂起 8 小时。在请求中设置 background: true，并通过 background\_options.completion\_window 选择 2 小时或 8 小时完成窗口，对应的 token 费率分别比标准价低 30% 和 40%。不设置 background 时使用默认的 soonest 模式，无折扣。该功能目前在 GPT-6.2 Astra、GPT-6.2 Sol、GPT-6.1 Terra 和 GPT-6 Luna 模型上公测。
+苹果公司正招募高级工程经理，主导自主 AI 智能体的开发。该智能体可代用户编写代码、浏览网页并操控应用，最早将于 2027 年末推出，项目仍处于早期阶段。此外，苹果在 macOS 27.3 中新增警告页面，将第三方智能体获取 Mac 控制权限的步骤从 4 步增加到 14 步。
 
-telegram · zaihuapd · 11月20日 11:15
+telegram · zaihuapd · 11月20日 08:59
 
-**「背景介绍」** OpenAI API 原本采用同步请求方式，长任务会直接阻塞等待响应。现在引入后台模式，将此类请求转为异步执行，允许任务在后台继续处理。
+**「AI 代理系统的背景」** 近年来，AI 代理系统在科技行业快速发展，OpenAI、Anthropic 等公司已推出支持网页浏览、应用控制和代码生成的自主智能体。这些系统能够自主执行多步任务，代表了 AI 从响应式到主动执行的演进。
 
-**「实际影响」** 开发者可以通过后台模式运行长任务，获得最高 40% 的 token 成本节省，从而降低 AI 应用的运营费用。该功能为支持的模型提供异步处理能力，适用于需要长时间运行的任务场景。
+**「Mac 权限变更影响」** macOS 27.3 将第三方 AI 智能体获取 Mac 控制权限的步骤由 4 步增至 14 步，这将增加用户使用第三方 AI 代理的摩擦，并可能导致开发者在 Mac 平台上集成 AI 代理时面临兼容性挑战。
 
-**标签**: `#OpenAI API`, `#Background Processing`, `#Asynchronous Tasks`, `#Token Cost Optimization`, `#AI Developers`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding">Apple Is Working on AI Agent for Device Control , Apps , Browsing ...</a></li>
+<li><a href="https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954">Apple Is Reportedly Building Its Own Full-Featured AI Agent</a></li>
+<li><a href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/">Apple may be developing its own AI agent that runs your... | TechCrunch</a></li>
+<li><a href="https://tech.yahoo.com/ai/apple-intelligence/articles/apple-develops-ai-agent-control-160700103.html">Apple develops AI agent to control apps, browse web and write ...</a></li>
+<li><a href="https://www.straitstimes.com/business/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding">Apple working on AI agent for device control, apps, browsing ...</a></li>
+<li><a href="https://www.gadgets360.com/ai/news/apple-developing-ai-agent-for-app-control-web-browsing-coding-report-12354412">Apple is Reportedly Developing AI Agent for App Control, Web ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Agents`, `#Apple`, `#Autonomous AI`, `#macOS`, `#Software Engineering`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [KVM 漏洞 CVE-2026-99312：AMD 主机内存可被虚拟机读取](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html) ⭐️ 7.0/10
-
-Linux 内核 KVM 超管程序曝出 CVE-2026-99312 漏洞，该漏洞仅影响启用嵌套虚拟化的 AMD 主机。研究人员在 DigitalOcean 平台上成功从虚拟机内读取了约 127 GB 的宿主内存。上游补丁已在 11 月 18 日随 Linux 内核 7.3.5 稳定版发布，但 Debian、Ubuntu 等发行版内核尚未更新，补丁到位前建议关闭嵌套虚拟化功能。
-
-telegram · zaihuapd · 11月20日 14:23
-
-**「KVM 嵌套虚拟化」** Linux 内核 KVM 模块支持 AMD 主机上的嵌套虚拟化功能。启用此功能时存在 CVE-2026-99312 漏洞，可被虚拟机利用读取宿主内存。
-
-**「潜在影响」** 启用嵌套虚拟化的 AMD 主机用户可能面临宿主内存被虚拟机读取的风险，建议立即关闭嵌套虚拟化以缓解该漏洞，直至系统更新到修复版本。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html">Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host ...</a></li>
-<li><a href="https://access.redhat.com/security/cve/cve-2026-99312">CVE-2026-99312 - Red Hat Customer Portal</a></li>
-<li><a href="https://app.opencve.io/cve/CVE-2026-99312">CVE-2026-99312 - Vulnerability Details - OpenCVE</a></li>
-
-</ul>
-</details>
-
-**标签**: `#KVM`, `#CVE-2026-99312`, `#AMD`, `#memory disclosure`, `#Linux kernel`, `#virtualization security`
-
----
-
-<a id="item-tech-news-11"></a>
 ### [OpenAI 加强反蒸馏防护，提取成功率降至 0.2%](https://openai.com/index/combatting-adversarial-distillation/) ⭐️ 7.0/10
 
-OpenAI 于 11 月 20 日宣布加强了对抗性蒸馏的防护措施，针对 GPT-6.2 Astra 与 Sol 模型。在红队测试中，提取历史请求推理的成功率从 54.0% 降至 0.2%。OpenAI 称每周对数千至数万个蒸馏账号采取执法行动，并曾就 DeepSeek 疑似蒸馏行为向国会汇报。
+OpenAI 于 11 月 20 日发文介绍对「对抗性蒸馏」的防御，称 GPT-6.2 Astra 与 Sol 已加强对推理链的保护：红队测试中提取历史请求推理的成功率从 54.0% 降至 0.2%。OpenAI 称今年每周对数千至数万个蒸馏账号采取执法，并曾就 DeepSeek 疑似蒸馏行为向国会汇报。
 
 telegram · zaihuapd · 11月21日 01:30
 
-**「对抗性蒸馏的背景」** 对抗性蒸馏是指利用目标模型的输出数据训练新模型以模仿其推理能力的过程，这类攻击可能导致模型提取。OpenAI 通过结合模型训练、防护措施、检测和执法的分层方法来保护模型免受此类攻击。DeepSeek 使用蒸馏技术训练其模型，并可能使用了 OpenAI GPT-6 Astra 的输出数据。
-
-**「影响」** OpenAI 模型提取成功率的降低将减少对手通过蒸馏提取其模型的风险。
+**「对抗性蒸馏的先决概念」** 对抗性蒸馏是一种攻击技术，攻击者通过查询受保护模型生成训练数据来训练替代模型，从而可能提取其能力。OpenAI 实施了结合模型训练、安全措施、检测机制和执法行动的多层方法来应对这一威胁。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://openai.com/index/combatting-adversarial-distillation/">Combatting adversarial distillation | OpenAI</a></li>
-<li><a href="https://www.cnbc.com/2025/02/21/deepseek-trained-ai-model-using-distillation-now-a-disruptive-force.html">DeepSeek trained AI model using distillation , now a disruptive force</a></li>
-<li><a href="https://trevoranews.com/deepseek-moonshot-gpt-6-astra-distillation-ai-models-2026/">DeepSeek and Moonshot Reportedly Used... - Trevora News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#adversarial distillation`, `#model extraction`, `#OpenAI`, `#AI security`, `#AI safety`
+**标签**: `#adversarial distillation`, `#model extraction`, `#OpenAI`, `#AI security`, `#LLM protection`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [AI 尝试解决黎曼假设引发 Hacker News 讨论](https://borretti.me/article/re-riemann) ⭐️ 6.0/10
+
+Hacker News 上关于博客文章《Re: Riemann》的讨论中，AI 模型如 Claude 和 OpenAI 被提及尝试解决广义黎曼假设（GRH）。这一互动未产生任何重大技术突破或独立验证的结果，仅聚焦于 AI 在数学探索中的作用。分析显示，此次讨论强调 AI 作为工具的价值，而非替代人类发现者的角色。
+
+hackernews · \_dain\_ · 11月20日 23:42 · [社区讨论](https://news.ycombinator.com/item?id=50583982)
+
+**「黎曼假设概述」** 黎曼假设是由德国数学家伯恩哈德·黎曼于 1859 年提出的数学猜想，指出所有非平凡黎曼 zeta 函数零点的实部均为 1/2。该猜想是克莱数学研究所的千年难题之一，尚未解决。Hacker News 讨论的&\#x27;Re: Riemann&\#x27;博客文章涉及人工智能模型 Claude 和 OpenAI 尝试解决广义黎曼假设，这与 Levent Alpöge 在 Lean 定理证明器中使用 Claude 形式化证明黎曼假设的工作相关。
+
+**「社区观点」** 评论者认为 AI 仅为工具，如计算器，帮助输入正确参数但人类需主导方向。有人认为机器已超越人类证明定理能力，但多数人仍享受数学学习过程。另有用户对人类智能未来感到沮丧，强调个人探索数学的本质。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove Riemann hypothesis , most...</a></li>
+<li><a href="https://www.claymath.org/millennium/riemann-hypothesis/">Riemann Hypothesis - Clay Mathematics Institute</a></li>
+<li><a href="https://github.com/CocoSgt/riemann-hypothesis-lean">GitHub - CocoSgt/ riemann - hypothesis -lean: Mirror of Levent...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Mathematics`, `#Riemann Hypothesis`, `#AI Capabilities`, `#Machine Learning`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [美国 SEC 对英伟达会计问题的调查](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627) ⭐️ 6.0/10
+### [开发者晋升架构师却未被告知](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 6.0/10
 
-据多个来源报道，美国证券交易委员会正在审查英伟达公司潜在的会计问题。这项调查可能涉及财务报告的合规性。英伟达作为全球领先的 AI 硬件提供商，其会计做法将直接影响公司财务状况和投资者信心。
+作者在博客文章中描述了将软件开发者提升为架构师角色的经历，但未事先告知他们。这一角色转变使被提升者承担更多设计决策工作，却缺乏相应的指导和沟通。这一事件在 Hacker News 上引发了关于人工智能如何重塑软件工程职责和团队结构的讨论。
 
-hackernews · ftchd · 11月20日 20:22 · [社区讨论](https://news.ycombinator.com/item?id=50581438)
+hackernews · QueensGambit · 11月20日 18:17 · [社区讨论](https://news.ycombinator.com/item?id=50579331)
 
-**「英伟达会计问题的美国证券交易委员会调查」** 美国证券交易委员会正在审查英伟达的潜在会计问题，消息人士向路透社透露了这一情况。此前华尔街日报周二报道了该调查，但未能确定具体细节。
+**「开发者与架构师的角色区别」** 软件工程领域中，开发者与架构师的角色界限传统上较为清晰。开发者专注于代码实现，而架构师则主导设计决策。公司将开发者直接晋升为架构师，却未明确告知这一变化，反映了 AI 工具正在模糊这一分工。
 
-**「社区讨论」** 用户指出这延续了英伟达过去五年的循环融资问题，并认为重新谈判与 neoclouds 的使用协议将严重损害自身利益。一些评论者质疑 CFO 是否不知情黑市芯片销售，并认为这可能加剧股票修正。
+**「社区讨论」** 评论者对这一经历进行了讨论。有人认为即使在大型组织中，架构师角色常为傀儡，工程师仍需推动设计和决策；另有人指出 AI 不会带来晋升，而是使工作成为“责任黑洞”，薪资和乐趣下降。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460">Nvidia ’ s accounting is a focus of US SEC investigation, sources say...</a></li>
-<li><a href="https://www.zerohedge.com/ai/nvidias-sec-probe-just-got-lot-worse">Nvidia Implosion Intensifies As SEC Nightmare Just Got... | ZeroHedge</a></li>
-<li><a href="https://www.tipranks.com/news/nvidia-faces-explosive-sec-accounting-probe-as-china-spy-scandal-deepens-what-wall-street-sees-next">Nvidia Faces Explosive SEC Accounting Probe as... - TipRanks.com</a></li>
+<li>We promoted developers into architects without informing them</li>
+<li>Hacker News 50 on X: &quot;We promoted developers into architects without ...</li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#SEC Investigation`, `#Accounting Issues`, `#AI Hardware`, `#Tech Industry`
+**标签**: `#software engineering`, `#career development`, `#artificial intelligence`, `#role evolution`, `#Hacker News`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [未经告知将开发者晋升为架构师](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 5.0/10
+### [Signal 限制移动平台 AI 代理数据捕获](https://signal.org/blog/protecting-your-privacy/) ⭐️ 6.0/10
 
-博客文章描述了作者将开发者晋升为架构师却未告知他们的做法。这导致团队角色界定不清，开发者承担了高层次设计决策职责却未获得相应认可。
+Signal 在其移动操作系统平台上实施了限制 AI 代理捕获用户数据的措施，以应对 AI 应用隐私风险。这些措施旨在防止 AI 代理访问用户的 Signal 聊天记录，即使未安装 AI 应用，联系人也可以泄露聊天内容。Signal 表示正在谨慎乐观地看到一些进展。
 
-hackernews · QueensGambit · 11月20日 18:17 · [社区讨论](https://news.ycombinator.com/item?id=50579331)
+hackernews · dotcoma · 11月20日 09:42 · [社区讨论](https://news.ycombinator.com/item?id=50572348)
 
-**「AI 编码工具引发的角色界限变化」** 随着人工智能辅助编码工具的普及，软件开发团队中开发者与架构师的职责界限日益模糊。许多开发者在日常工作中承担原本由架构师负责的设计决策，但如果团队未正式告知或晋升他们，AI 生成的代码在生产环境中可能出现意想不到的问题。
+**「背景」** AI 代理在移动设备上获取过多访问权限的问题日益突出，这使得用户隐私保护面临挑战。Signal 公司此前在防止这些代理获取聊天数据方面面临困难。
 
-**「潜在影响」** 此举可能导致开发者对自身职责的误解，并影响团队协作效率。证据显示，这种未经沟通的晋升在软件团队中常见，可能引发责任不清和士气问题。
+**「影响」** 此举将减少用户聊天数据被 AI 代理未经授权捕获的风险，提高移动平台上的隐私保护水平。
 
-**「社区讨论」** Hacker News 上的讨论中，用户辩论了将开发者晋升为架构师的实际效果。有人认为工程师角色不变，只是不再直接编码，而是处理更多决策；另一些人则指出，这种晋升可能使工作变得乏味且薪资降低。
+**「社区讨论」** 用户提到 Meredith Whittaker 的采访，指出 Signal 在阻止 AI 应用获取聊天数据方面存在困难，即使没有安装 AI 应用，联系人也可以泄露聊天。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.vibeleaderboard.ai/intel/62b29c7d-8dde-45f8-8b85-b5651f65899c">We promoted developers into architects without informing them</a></li>
-
-</ul>
-</details>
-
-**标签**: `#software engineering`, `#architect role`, `#career development`, `#AI in software`, `#team dynamics`
+**标签**: `#AI privacy`, `#mobile OS`, `#data access restrictions`, `#Signal`, `#privacy engineering`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Alessandro Masullo 提出广义黎曼假设证明](https://simonwillison.net/2026/Nov/20/ravi-vakil/) ⭐️ 5.0/10
+### [OpenAI API 后台模式上线](https://developers.openai.com/api/docs/guides/background) ⭐️ 6.0/10
 
-Alessandro Masullo 提出了一份广义黎曼假设的证明。Brian Conrad 已经仔细审查了数月，并提供了广泛的反馈，这些反馈正在被融入其中。整个过程是人工完成的，没有使用 AI。目前草稿已公开，以期进一步完善。
+OpenAI 已推出 API 后台模式，支持长耗时请求的异步执行，最长可挂起 8 小时。开发者可在请求中设置 background: true，并通过 background\_options.completion\_window 选择 2 小时或 8 小时的完成时限，对应的 token 费率分别比标准价低 30% 和 40%。此功能目前在 GPT-6.2 Astra、GPT-6.2 Sol、GPT-6.1 Terra 和 GPT-6 Luna 模型上公测。后台模式会临时存储响应数据，即使 store 设为 false 或启用了零数据保留也不例外。
 
-rss · Simon Willison · 11月20日 19:21
+telegram · zaihuapd · 11月20日 11:15
 
-**「背景」** 广义黎曼假设是数论中的核心未解决问题。Alessandro Masullo 的证明是人类数学家的努力，Brian Conrad 的反馈是关键的改进部分。
+**「长时任务异步处理的背景」** OpenAI 的 Responses API 支持多步代理等长时运行任务，这些任务可能持续数小时。同步请求常面临超时问题且费用较高。后台模式允许异步提交请求，通过 2 小时或 8 小时完成窗口获得 30%或 40%的 token 折扣。
 
-**「影响」** 该证明如果被独立验证，将解决数论中的重大开放问题，但目前它是初步草稿，需要进一步验证。
+**「折扣与数据保留」** 可以等待数小时再取结果的开发者，在公测模型上把完成窗口设为 2 小时或 8 小时后，符合条件的请求（包括后续轮次）可分别按标准模型 token 费率获得 30% 或 40% 折扣。后台模式仍会临时存储响应数据，即使将 store 设为 false 或启用零数据保留也不例外，提交受保留策略约束的内容前应先确认这一行为是否可接受。
 
-**标签**: `#mathematics`, `#number theory`, `#Riemann Hypothesis`, `#math announcement`, `#Ravi Vakil`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developers.openai.com/api/docs/guides/background">Background mode | OpenAI API</a></li>
+<li><a href="https://www.aifeaturedrop.com/2026/11/openai-background-mode-guide-2-hour-and.html">OpenAI Background Mode Guide: 2-Hour and 8-Hour Completion ...</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/background">Background mode | OpenAI API</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI API`, `#Background Processing`, `#API Cost Optimization`, `#Asynchronous Tasks`, `#Developer Features`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [美国收紧芯片出口 印度借机扩充 AI 算力](https://www.bloomberg.com/news/articles/2026-11-20/nvidia-scandal-fallout-india-ai-yotta-ambani-adani-am-intelligence-e2e-networks) ⭐️ 5.0/10
+### [随机鹦鹉声称证明黎曼假设](https://scottaaronson.blog/?p=10344) ⭐️ 5.0/10
 
-美国收紧对马来西亚、泰国、新加坡的先进芯片出口，印度 AI 业界认为可承接外溢需求。Yotta 称未来一年新增约 10 万块 GPU，相当于印度现有算力再增约 10%。印度现有 153 个数据中心，居全球第 14；信实承诺投入至多 1100 亿美元、阿达尼 1000 亿美元建 AI 基础设施，但长期受算力基础设施短缺与资本受限拖累。
+Scott Aaronson 的博客文章以讽刺笔调声称，随机鹦鹉式大型语言模型已经证明了黎曼假设，这是一个未解决的数学难题。该帖子强调了这些 AI 在数学理解和发现方面的局限性。实际上，这是一个幽默的评论，并非任何实际的数学突破。
 
-telegram · zaihuapd · 11月20日 07:31
+hackernews · stratos123 · 11月20日 20:03 · [社区讨论](https://news.ycombinator.com/item?id=50581084)
 
-**「美国芯片出口收紧背景」** 美国对马来西亚、泰国和新加坡等东南亚国家的先进芯片出口收紧是近年来半导体出口管制政策调整的一部分。这为印度 AI 产业界承接外溢需求提供了机会。Yotta 计划未来一年新增约 10 万块 GPU，相当于印度现有算力再增约 10%。
+**「随机鹦鹉与黎曼假设」** 随机鹦鹉一词出自 2021 年论文，指出大型语言模型仅模仿模式而非真正理解。黎曼假设是数学中著名的未解决猜想。Scott Aaronson 的博客文章声称这些人工智能模型已证明了黎曼假设。
 
-**「印度 AI 算力扩张的潜在影响」** 美国对马来西亚、泰国和新加坡先进芯片出口的收紧使印度有机会通过 Yotta 新增约 10 万块 GPU 来扩大 AI 算力，相当于现有算力的 10%增长。信实和阿达尼将分别投入高达 1100 亿美元和 1000 亿美元建设 AI 基础设施。然而，印度行业领导者担忧这些限制会减少 GPU 访问并提高成本，从而阻碍 AI 发展。
+**「社区讨论」** HN 评论者指出，AI 如随机鹦鹉无法提供直观的“为什么”解释，类似于 Stockfish 的 NNUE 评估器，留下不满足的局面。另有观点认为人类将无法理解日益复杂的科学发现，难以贡献实质内容。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.business-standard.com/industry/news/us-chip-export-curbs-raise-concerns-for-india-s-ai-growth-infrastructure-125011501132_1.html">US chip export curbs raise concerns for India&#x27;s AI growth ...</a></li>
-<li><a href="https://www.reuters.com/world/india/ambanis-reliance-will-invest-110-billion-ai-2026-02-19/">Reliance, Adani drive India&#x27;s AI push with plans to invest ...</a></li>
-<li><a href="https://www.livemint.com/companies/adani-group-relinace-industries-tata-group-artificial-intelligence-data-centres-11771332320671.html">Powering the chips: Why Adani, Reliance are building a $125 ...</a></li>
+<li><a href="https://scottaaronson.blog/?p=10344">The stochastic parrots have apparently proved the Riemann ...</a></li>
+<li><a href="https://scottaaronson.blog/%D8%9Fp=1753/">Shtetl-Optimized - scottaaronson.blog</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50581084">The stochastic parrots have apparently proved the Riemann ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#chip export controls`, `#India AI infrastructure`, `#data center expansion`, `#semiconductor supply chain`, `#AI compute growth`
+**标签**: `#AI`, `#Mathematics`, `#Riemann Hypothesis`, `#Large Language Models`, `#Scott Aaronson`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [苹果自主 AI 智能体研发，最早 2027 年末推出](https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding) ⭐️ 5.0/10
+### [美国 SEC 调查英伟达潜在会计问题](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627) ⭐️ 5.0/10
 
-苹果正招募高级工程经理，主导主动式 AI 智能体开发。该智能体可代用户写代码、浏览网页、操控应用，最早 2027 年末推出，项目仍处早期阶段。同时，苹果在 macOS 27.3 中加入警告页，第三方智能体获取 Mac 控制权限的步骤由 4 步增至 14 步。
+美国证券交易委员会正在调查英伟达公司潜在的会计问题。根据多个来源报道，这项调查可能影响英伟达的财务报告和投资者信心。英伟达作为全球领先的 AI 硬件制造商，此举将引发对公司治理和合规性的关注。
 
-telegram · zaihuapd · 11月20日 08:59
+hackernews · ftchd · 11月20日 20:22 · [社区讨论](https://news.ycombinator.com/item?id=50581438)
 
-**「苹果 AI 智能体研发背景」** 苹果 Apple Intelligence 框架已将 Siri AI 功能扩展到 iOS 27、iPadOS 27、macOS Golden Gate、watchOS 27 和 visionOS 27 等平台。近期，Meta Muse、OpenAI 等公司推出自主 AI 智能体，苹果从本周招聘信息中得知正招募高级工程经理开发主动式 AI 智能体，可代用户写代码、浏览网页并操控应用。
+**「Nvidia 会计问题的背景」** 美国证券交易委员会正在审查英伟达的潜在会计问题，这与公司向中国的销售披露有关。根据报道，英伟达可能未适当披露其与中国客户的交易，英伟达还向客户提供融资以购买 GPU，这可能影响收入确认。Reuters 无法立即确定 SEC 何时启动调查或具体审查哪些会计问题。
 
-**「Mac 用户将获苹果自主 AI 代理支持」** 苹果用户将能够使用由苹果自主开发的 AI 智能体，这些智能体可代用户写代码、浏览网页并操控应用，最早将于 2027 年末推出，这将为用户提供直接竞争 OpenAI、Anthropic 和 Meta 等公司 AI 代理服务的选项。
+**「Nvidia 因 SEC 调查股价大幅下跌」** 美国证券交易委员会对 Nvidia 潜在会计问题的调查导致其股票继续下跌，市值损失达 2.7 万亿美元。这对 Nvidia 的投资者和公司造成直接财务影响。
+
+**「社区讨论」** 社区用户对英伟达会计问题表示担忧，有人认为这是过去 5 年循环融资问题的延续，可能因与云服务商交易重谈而导致严重后果。另有评论质疑董事会是否在调查期间仍任命 CFO 为代理 CEO，以及 CFO 是否可能不知情于黑市芯片销售等事宜。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/">Apple may be developing its own AI agent that runs... | TechCrunch</a></li>
-<li><a href="https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954">Apple Is Reportedly Building Its Own Full-Featured AI Agent</a></li>
-<li><a href="https://www.apple.com/apple-intelligence/">Apple Intelligence and Siri - Apple</a></li>
-<li><a href="https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954">Apple Is Reportedly Building Its Own Full-Featured AI Agent</a></li>
-<li><a href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/">Apple may be developing its own AI agent that runs your... | TechCrunch</a></li>
+<li>Nvidia&#x27;s accounting is a focus of US SEC investigation, sources say</li>
+<li>US SEC&#x27;s Nvidia probe is examining potential accounting issues ... - Reddit</li>
+<li>US SEC&#x27;s Nvidia probe is examining potential accounting issues – sources</li>
+<li><a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html?fr=sycsrp_catchall">Nvidia stock extends $2.7 trillion rout as SEC probe ...</a></li>
+<li><a href="https://www.businesstoday.in/latest/corporate/story/us-sec-launches-probe-into-potential-accounting-issues-at-nvidia-scrutiny-over-china-ties-widen-568860-2026-11-21">US SEC launches probe into potential accounting issues at ...</a></li>
+<li><a href="https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/">Nvidia&#x27;s accounting is a focus of US SEC investigation ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Agents`, `#Apple Intelligence`, `#macOS Updates`, `#Rumors`, `#Tech News`
+**标签**: `#Nvidia`, `#SEC`, `#Accounting`, `#AI Hardware`, `#Regulatory Investigation`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [特斯拉高级辅助驾驶系统获准进入意大利](https://www.ilfattoquotidiano.it/2026/11/20/tesla-assisted-driving-arriva-in-italia-via-libera-alla-guida-assistita-avanzata/8578482/) ⭐️ 5.0/10
+### [美国收紧芯片出口 印度借机扩 AI 算力](https://www.bloomberg.com/news/articles/2026-11-20/nvidia-scandal-fallout-india-ai-yotta-ambani-adani-am-intelligence-e2e-networks) ⭐️ 5.0/10
 
-特斯拉高级辅助驾驶系统已获意大利主管部门批准，将通过 OTA 推送。月费 99 欧元。该系统可处理城市道路、路口与变道，但驾驶员须全程监控并担责。这是意大利继荷兰之后在欧洲的第 12 个市场。
+美国收紧对马来西亚、泰国和新加坡的先进芯片出口，印度 AI 业界认为可承接外溢需求。Yotta 称未来一年新增约 10 万块 GPU，这相当于印度现有算力再增加约 10%。印度现有 153 个数据中心，位居全球第 14。信实承诺投入至多 1100 亿美元，阿达尼投入 1000 亿美元建设 AI 基础设施，但长期受算力基础设施短缺和资本限制的拖累。
 
-telegram · zaihuapd · 11月20日 12:14
+telegram · zaihuapd · 11月20日 07:31
 
-**「欧洲 FSD 重命名与订阅模式」** 在欧洲法规限制完全自动驾驶的情况下，特斯拉将 Full Self-Driving 重命名为 Tesla Assisted Driving，以合规推出订阅制功能。该系统每月 99 欧元，提供城市道路、路口与变道等辅助驾驶支持，但驾驶员需全程监控并承担责任。系统首度于 2026 年 4 月在荷兰上线，意大利现为第 12 个欧洲市场。
+**「美国芯片出口管制与印度 AI 算力扩张」** 美国对先进芯片出口的管制政策近年来持续收紧，主要针对敏感技术流向中国等地区的国家安全风险。这一政策直接导致对马来西亚、泰国和新加坡等国的出口限制，为印度 AI 算力提供商创造了新的发展机会。Yotta Data Services 计划未来一年新增约 10 万块 GPU，相当于印度现有算力的 10%增加，这得益于信实和阿达尼等公司投入巨资建设 AI 基础设施。
+
+**「印度 AI 算力容量增长」** 美国对马来西亚、泰国和新加坡的先进芯片出口限制为印度 AI 公司提供了承接外溢需求的机遇。Yotta 计划未来一年新增约 10,000 块 GPU，使印度算力增加约 10%。Reliance 和 Adani 的巨额 AI 基础设施投资将因此受益。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.clubalfa.it/en/another-european-country-just-unlocked-tesla-full-self-driving-37923">Another European country just unlocked Tesla ’s Full Self- Driving</a></li>
-<li><a href="https://techgolly.com/tesla-fsd-software-approval-gathers-momentum-as-finland-eyes-fast-track-route">Tesla FSD Software Approval Gathers Momentum As Finland Eyes...</a></li>
-<li><a href="https://notanfsdtracker.com/tesla-renames-fsd-europe-assisted-driving">Why Tesla Is Renaming FSD in Europe: Tesla Assisted Driving</a></li>
+<li><a href="https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/">[News] TSMC, Samsung Reportedly Pause China Consumer Chip ...</a></li>
+<li><a href="https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html">India’s Yotta to build $2 billion AI hub with Nvidia GPUs ...</a></li>
+<li><a href="https://analyticsindiamag.com/deep-tech/us-export-rules-put-indias-chip-industry-at-crossroads">How Will US Export Rules Impact India&#x27;s Chip Industry?</a></li>
+<li><a href="https://www.moneycontrol.com/news/business/nvidia-controversy-indian-industry-braces-for-tighter-us-export-controls-on-ai-chips-14078337.html">Nvidia controversy: Indian industry braces for tighter US ...</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/proposed-us-restriction-on-ai-chip-export-threatens-indias-ai-hardware-plans-iesa/articleshow/117296627.cms">Proposed US restriction on AI chip export threatens India&#x27;s ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Tesla`, `#Autopilot`, `#ADAS`, `#Italy`, `#AI Automotive`
+**标签**: `#US chip export controls`, `#India AI infrastructure`, `#semiconductor policy`, `#AI hardware growth`, `#tech industry developments`
 
 ---
 
 <a id="item-tech-news-18"></a>
-### [余承东澄清享界 V8 L3 未开放](https://weibo.com/1664176597/Rsi4xEGAA) ⭐️ 5.0/10
+### [TikTok 全球上线 Likeness Detection 工具](https://www.straitstimes.com/world/tiktok-launches-tool-to-help-public-figures-detect-deepfakes-globally) ⭐️ 5.0/10
 
-11 月 20 日晚，华为常务董事、终端 BG 董事长余承东发文澄清发布会讲话不准确。享界 V8 目前使用 L2 辅助驾驶，L3 的硬件能力已具备但尚未开放。用户使用辅助驾驶时要专心开车、按要求握好方向盘。现在仍是 L2 时代，大家一定要注意安全，开车不能睡觉。
+TikTok 于 11 月 20 日起全球上线 Likeness Detection 工具，经第三方验证身份的公众人物和头部创作者可收到他人未经授权使用其形象生成 AI 内容的提示并举报。同日推出的透明工具允许任何人上传图片或视频，查询其是否由 TikTok 的 AI 功能生成，无需账号。此举有助于维护 2027 年欧洲多国选举，并回应欧盟今年 8 月起要求标注 AI 内容的规则。
 
-telegram · zaihuapd · 11月20日 12:55
+telegram · zaihuapd · 11月20日 08:14
 
-**「L2 与 L3 自动驾驶区别」** L2 辅助驾驶要求驾驶员始终保持注意力并控制车辆，L3 条件自动驾驶允许在特定条件下驾驶员暂时脱离控制但需随时准备接管。余承东在 11 月 20 日下午的享界 V8 发布会上曾表示 L3 到来后可睡觉，但随后澄清 L3 功能尚未开放。
+**「欧盟 AI 标注要求」** 欧盟今年 8 月起要求标注 AI 生成的内容，以应对深度伪造等风险。TikTok 的 Likeness Detection 工具旨在帮助经第三方验证的公众人物检测其形象被未经授权的 AI 使用，并支持 2027 年欧洲多国选举的透明度。
 
-**标签**: `#autonomous driving`, `#L3`, `#L2`, `#Huawei`, `#AI systems`
+**「公众人物可检测 AI 深度伪造」** TikTok Likeness Detection 工具允许经第三方验证的公众人物接收未经授权使用其形象生成 AI 内容的提示并举报，此举有助于应对欧盟 AI 标注要求和 2027 年欧洲选举安全。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.euronews.com/2026/11/20/tiktok-rolls-out-deepfake-detection-tool-for-public-figures-to-fight-back-against-disinfor">TikTok rolls out deepfake detection tool for public figures</a></li>
+<li><a href="https://www.channelnewsasia.com/world/tiktok-tool-public-figures-detect-deepfakes-6568406">TikTok launches tool to help public figures detect deepfakes ...</a></li>
+<li><a href="https://www.indexbox.io/blog/tiktok-launches-likeness-detection-to-flag-ai-content-using-creators-images/">TikTok Rolls Out Likeness Detection Tool to Combat AI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Deepfakes`, `#TikTok`, `#Content Detection`, `#Election Security`, `#Misinformation Prevention`
 
 ---
 
 <a id="item-tech-news-19"></a>
-### [Cursor 拟停用中国 AI 模型](https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html) ⭐️ 5.0/10
+### [豆包 AI 下调模型倍率，八成办公任务免费](https://mp.weixin.qq.com/s/nOSgci0nY2cGe06paOozfA) ⭐️ 5.0/10
 
-SpaceX 旗下 AI 编程平台 Cursor 表示，因「地缘政治风险」正考虑逐步停用中国开发的开源权重模型。其 Composer 2 编程模型基于月之暗面 Kimi K2.5 构建。这一表态基于美国众议院国土安全委员会与美中特别委员会的报告，该报告建议推出「美国国家开源权重计划」，并主张在禁止 DeepSeek 进入联邦系统的行政令基础上，禁止联邦系统使用中国开发的 AI 模型。
+字节跳动豆包 AI 下调多款模型的额度消耗倍率，包括 DeepSeek V4.1 Flash 和豆包 2.1 Lite 降至 0.01。简单对话和低消耗任务不再收费。根据实测数据，超八成日常办公任务可免费完成，一次 3D 建模约 0.23 元、写动态网页 0.06 元。同时同步推出签到领额度、新用户 30 天体验，并接入 Kimi K3.1 Pro、GLM 5.3 等第三方模型。
 
-telegram · zaihuapd · 11月20日 16:13
+telegram · zaihuapd · 11月20日 10:17
 
-**「地缘政治风险与美国 AI 政策」** 美国众议院国土安全委员会与美中特别委员会联合发布的调查报告指出，中国正试图让美国公司对开源权重人工智能模型产生依赖，并建议推出美国国家开源权重计划。该报告还主张在禁止 DeepSeek 等中国 AI 模型进入联邦系统的基础上，进一步限制联邦机构使用中国开发的 AI 模型。这一政策背景促使 SpaceX 旗下 Cursor 考虑逐步停用中国 AI 模型，以降低地缘政治风险。
+**「豆包工作倍率调整的背景」** 豆包工作平台引入了额度消耗倍率机制来量化模型使用成本。倍率是决定消耗配额速度的系数，数值越低表示消耗越少。此机制支持用户根据需求选择不同模型，并已支持第三方模型接入。
+
+**「豆包工作模型倍率下调 80%办公任务免费」** 豆包工作平台将多款模型的额度消耗倍率降至 0.01，使超八成日常办公任务可免费完成。这将便利大量用户使用，同时平台支持接入第三方模型如 Kimi K3.1 Pro 和 GLM 5.3。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models">Joint Investigation Report: China is Trying to Get U.S ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/IF/PDF/IF13336/IF13336.1.pdf">Removing PRC Artificial Intelligence Models from Federal ...</a></li>
+<li><a href="https://www.ainvest.com/news/bytedance-0-01-ai-number-price-2611/">ByteDance&#x27;s 0.01 AI Number Is Not a Price - ainvest.com</a></li>
+<li><a href="https://aicoder.com/news/news-20261112-bytedance-doubao-work-third-party-models-kimi-k3-1-pro-glm-5-3-deepseek-v4-1-flash-credit-multipliers">ByteDance Opens Doubao Work to Third-Party Models: Kimi K3.1 ...</a></li>
+<li><a href="https://aigc.news/events/deepseek-v4-1-flash-kimi-k3-1-pro-2026-11-12-09b0b916/">Reportedly: Doubao Work adds DeepSeek V4.1 Flash, Kimi K3.1 ...</a></li>
+<li>ByteDance&#x27;s productivity AI platform Doubao Work has surpassed 8 ...</li>
+<li>Doubao Work Fully Opens Up Multi-Model Access, Escalating…</li>
 
 </ul>
 </details>
 
-**标签**: `#AI Models`, `#Geopolitics`, `#Software Engineering`, `#Open Source AI`, `#US-China Relations`
+**标签**: `#AI`, `#ByteDance`, `#Doubao`, `#AI pricing`, `#productivity tools`
 
 ---
 
 <a id="item-tech-news-20"></a>
-### [Gemini 上线 GIF 生成功能](https://x.com/GeminiApp/status/2123813017855103449) ⭐️ 5.0/10
+### [特斯拉辅助驾驶获准进入意大利](https://www.ilfattoquotidiano.it/2026/11/20/tesla-assisted-driving-arriva-in-italia-via-libera-alla-guida-assistita-avanzata/8578482/) ⭐️ 5.0/10
 
-Google Gemini 已上线 GIF 生成功能，由视频模型 Gemini Omni 1.2 Flash 驱动。该功能可生成循环动态图效和搞笑表情包，面向所有 Google AI 订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费提供。用户可通过主聊天输入提示词或在图像与视频工具中选择 GIF 并描述需求。
+特斯拉高级辅助驾驶系统已获意大利主管部门批准，将很快通过 OTA 推送，订阅价每月 99 欧元。该系统可处理城市道路、路口与变道，但驾驶员须全程监控并担责。该功能 2026 年 4 月率先在荷兰上线，意大利是第 12 个欧洲市场。特斯拉称欧洲累计行驶超 2 亿公里，并称碰撞率最多低至手动驾驶的七分之一，但数据出自公司自有方法，未经独立验证。
 
-telegram · zaihuapd · 11月21日 01:09
+telegram · zaihuapd · 11月20日 12:14
 
-**「Gemini Omni 1.2 Flash 视频模型」** Gemini Omni 1.2 Flash 是 Google 的多模态 AI 视频模型，支持原生 15 秒视频生成和编辑。它通过改进的参考遵循和一致性增强了视频创建能力。这使得 Gemini 能够生成循环动态图和搞笑表情包等 GIF 内容。
-
-**「Gemini 用户可生成 GIF」** Gemini 用户在美国、日本、韩国等支持国家可直接在聊天输入或图像工具中生成循环 GIF，由 Gemini Omni 1.2 Flash 视频模型驱动，GIF 循环约 3 秒。这为用户提供了便捷的 GIF 创建方式。
+**「特斯拉 FSD 在欧洲的监管批准」** 特斯拉的先进辅助驾驶系统此前已在荷兰于 2026 年 4 月率先获得欧洲批准。此次意大利交通部授予临时批准，使意大利成为允许该系统的第 12 个欧洲国家，也是欧盟主要市场中的首个。该系统可处理城市道路、路口与变道等场景，但驾驶员须全程监控并担责。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://picsart.com/ai-models/gemini-omni-1-2-flash/">Gemini Omni 1 . 2 Flash : AI Video with Draft Mode | Picsart</a></li>
-<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Gemini Omni 1 . 2 Flash : 15-second video and lower pricing</a></li>
-<li><a href="https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video">Gemini Omni 1 . 2 Flash Reference-to- Video API | WaveSpeed</a></li>
-<li><a href="https://www.androidauthority.com/gemini-gif-generation-rollout-3737901/">Gemini can now be your go-to source for making GIFs</a></li>
-<li><a href="https://www.gate.com/news/detail/google-gemini-app-launches-gif-generation-feature-across-8-countries-25758513">Google Gemini App Launches GIF Generation Feature Across 8 ...</a></li>
-<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Gemini Omni 1.2 Flash: 15-second video and lower pricing</a></li>
+<li><a href="https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/">Tesla FSD approved in Italy , the first big EU market to say yes</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gemini`, `#Google AI`, `#generative AI`, `#multimodal models`, `#feature announcement`
+**标签**: `#Tesla`, `#Autopilot`, `#ADAS`, `#Italy`, `#Europe`
 
 ---
 
 <a id="item-tech-news-21"></a>
-### [ChatGPT 向 Plus 用户开放 Space 协作空间](https://x.com/ChatGPT/status/2123850912867471807) ⭐️ 5.0/10
+### [余承东澄清享界 V8 L2 时代](https://weibo.com/1664176597/Rsi4xEGAA) ⭐️ 5.0/10
 
-ChatGPT 已向 Plus 用户开放 Space 协作功能，允许用户创建交互式页面、幻灯片和网站。该功能支持在手机端编辑，并提供团队邀请选项。Space 位于侧边栏，集中存放页面、幻灯片、图片、文件和上传内容。页面与幻灯片可设为从已连接工具自动更新，并能邀请他人共同编辑。
+11 月 20 日晚，华为常务董事余承东发文澄清发布会讲话不准确。享界 V8 当前使用 L2 辅助驾驶，L3 硬件能力已具备但尚未开放。余承东表示现在仍是 L2 时代，开车不能睡觉，必须专心驾驶、按要求握好方向盘。
 
-telegram · zaihuapd · 11月21日 02:30
+telegram · zaihuapd · 11月20日 12:55
 
-**「ChatGPT Space 功能背景」** OpenAI 于 2026 年 9 月在 DevDay 大会上推出了 ChatGPT Space 功能。该功能将页面、幻灯片、文件和共享工作集中到一个共享空间中，用户可以与 ChatGPT 一起编写和编辑，并邀请他人共同协作。
+**「SAE 自动驾驶分级概念」** SAE J3016 标准将自动驾驶系统分为 L0 至 L5 六个级别。L2 为辅助驾驶级别，要求驾驶员始终保持注意力集中于驾驶。L3 为有条件自动驾驶级别，在特定条件下允许系统暂时替代驾驶员的部分控制，但驾驶员仍需随时准备接管。
 
-**「用户影响」** Plus 用户可通过手机编辑 Space 内容并邀请团队协作。
+**「用户安全要求」** 用户在使用享界 V8 时需保持注意力，L3 功能硬件已准备但未开放。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://learn.chatgpt.com/docs/space">Space – ChatGPT | ChatGPT Learn</a></li>
-<li><a href="https://www.androidheadlines.com/2026/09/openai-launches-chatgpt-space-collaborative-hub.html">OpenAI Unveils ChatGPT Space for Team Work - Android Headlines</a></li>
+<li><a href="https://saemobilus.sae.org/standards/j3016_202609-taxonomy-definitions-terms-related-driving-automation-systems-road-motor-vehicles">J3016_202609: Taxonomy and Definitions for Terms Related to ...</a></li>
+<li><a href="https://ev-global.org/blogs/articles/article46-level-2-vs-level-3-autonomous-driving">Level 2 vs Level 3 Autonomous Driving: Who Drives?</a></li>
+<li><a href="https://autotechbrief.com/articles/sae-levels-of-driving-automation-explainer-2026-06-22">SAE Levels of Driving Automation Explained (L2-L4)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ChatGPT`, `#AI collaboration`, `#feature update`, `#OpenAI`, `#product announcement`
+**标签**: `#autonomous driving`, `#AI`, `#ADAS`, `#Huawei`, `#L2 L3`
+
+---
+
+<a id="item-tech-news-22"></a>
+### [Anthropic 数学家称用 Claude 证明黎曼猜想](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) ⭐️ 5.0/10
+
+Anthropic 数学家 Levent Alpöge 声称，他借助 Claude AI 模型证明了数学界最著名的未解难题黎曼猜想。该证明已用 Lean 编程语言编码发布，详细文稿超过 25 万页。该声称还确认了更广泛的广义黎曼猜想。
+
+telegram · zaihuapd · 11月20日 15:29
+
+**「黎曼猜想简介」** 黎曼猜想是数学界最著名的未解难题，由德国数学家伯恩哈德·黎曼于 1859 年提出，描述了素数分布的精确规律。该猜想被认为是数学中最难的问题之一。近年来，形式化验证和人工智能辅助证明的发展使得复杂数学证明的编码和验证成为可能，Lean 是一种专门用于此目的的开源证明助手。
+
+<details><summary>参考链接</summary>
+<ul>
+<li>Anthropic claims to have proven the Riemann Hypothesis</li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove... | Scientific American</a></li>
+
+</ul>
+</details>
+
+**标签**: `#artificial intelligence`, `#open source`, `#proof assistants`, `#formal verification`, `#mathematics`
+
+---
+
+<a id="item-tech-news-23"></a>
+### [Cursor 考虑逐步停用中国 AI 模型](https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html) ⭐️ 5.0/10
+
+Cursor 旗下的 AI 编程平台正在考虑逐步停用中国开发的开源权重模型，如月之暗面的 Kimi K2.5。其 Composer 2 编程模型基于 Kimi K2.5 构建。这一表态源于地缘政治风险，并参考了美国众议院国土安全委员会与美中特别委员会的报告，该报告建议推出美国国家开源权重计划，并主张禁止中国开发的 AI 模型进入联邦系统。
+
+telegram · zaihuapd · 11月20日 16:13
+
+**「美国众议院报告」** 美国众议院国土安全委员会与美中特别委员会的报告建议推出“美国国家开源权重计划”，并主张禁止联邦系统使用中国开发的 AI 模型。这为 SpaceX 旗下 Cursor 考虑逐步停用中国开源权重模型如 Kimi K2.5 提供了政策依据。报告是在先前禁止 DeepSeek 进入联邦系统的行政令基础上提出的，反映了中美 AI 竞赛中开源模型的战略地位，Anthropic 首席执行官 Dario Amodei 表示反对禁止开源权重模型。
+
+**「Cursor 考虑停用中国 AI 模型」** Cursor 用户和开发者可能需要切换到其他 AI 模型，以应对地缘政治风险。平台正在考虑逐步停用基于月之暗面 Kimi K2.5 的 Composer 2 编程模型，这可能导致现有工作流的兼容性问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47114V:0-spacex-s-cursor-weighs-ditching-chinese-ai-models-over-geopolitical-risk-cnbc-reports/">SpaceX &#x27;s Cursor weighs ditching Chinese AI models over...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_House_Committee_on_Homeland_Security">United States House Committee on Homeland Security - Wikipedia</a></li>
+<li><a href="https://www.businesstoday.in/technology/artificial-intelligence/story/us-china-ai-race-puts-open-models-in-spotlight-anthropic-ceo-calls-for-ai-rules-instead-of-bans-545688-2026-07-28">US China AI race puts open models in spotlight... - BusinessToday</a></li>
+<li><a href="https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/">Anthropic&#x27;s Dario Amodei responds: doesn&#x27;t oppose open - weight ...</a></li>
+<li><a href="https://www.reuters.com/business/media-telecom/spacexs-cursor-weighs-phasing-out-chinese-ai-models-over-geopolitical-risk-cnbc-2026-11-20/">SpaceX&#x27;s Cursor weighs phasing out Chinese AI models over ...</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/spacexs-cursor-weighs-phasing-out-chinese-ai-models-over-geopolitical-risk-cnbc-reports/articleshow/136031673.cms">SpaceX&#x27;s Cursor weighs phasing out Chinese AI models over ...</a></li>
+<li><a href="https://uk.finance.yahoo.com/news/spacexs-cursor-weighs-phasing-chinese-144823758.html">SpaceX&#x27;s Cursor weighs phasing out Chinese AI models over ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Open Source`, `#Geopolitics`, `#US-China Relations`, `#Software Engineering`
+
+---
+
+<a id="item-tech-news-24"></a>
+### [Gemini 上线 GIF 生成功能](https://x.com/GeminiApp/status/2123813017855103449) ⭐️ 5.0/10
+
+Google Gemini 已推出由视频模型 Gemini Omni 1.2 Flash 驱动的 GIF 生成功能。该功能支持生成循环动态 GIF 效果和搞笑表情包。该功能面向所有 Google AI 订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费提供。用户可在主聊天输入提示词，或在图像与视频工具中选择 GIF 并描述需求。
+
+telegram · zaihuapd · 11月21日 01:09
+
+**「Gemini Omni 1.2 Flash 视频模型」** Gemini Omni 1.2 Flash 是 Google 推出的视频生成模型，于 2026 年 11 月 5 日发布。该模型支持原生 15 秒视频生成和编辑，并提供更强的一致性和 30% 的更低定价。它为 Gemini 的 GIF 生成功能提供了技术基础，使其能够生成循环动态图和搞笑表情包。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Gemini Omni 1.2 Flash: 15-second video and lower pricing</a></li>
+<li><a href="https://www.androidauthority.com/gemini-gif-generation-rollout-3737901/">Gemini can now be your go-to source for making GIFs</a></li>
+<li><a href="https://www.techtimes.com/articles/330142/20261106/google-debuts-gemini-omni-12-flash-longer-ai-clips-better-editing-fewer-errors.htm">Google Debuts Gemini Omni 1.2 Flash With Longer AI Clips ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Gemini`, `#Google AI`, `#GIF generation`, `#video model`, `#feature announcement`
+
+---
+
+<a id="item-tech-news-25"></a>
+### [ChatGPT 向 Plus 用户开放 Space 协作空间](https://x.com/ChatGPT/status/2123850912867471807) ⭐️ 5.0/10
+
+ChatGPT 已向 Plus 用户开放 Space 协作空间功能，允许用户与他人协作创建交互式页面、幻灯片和网站，并支持在手机端编辑，官方称整体更加流畅稳定。Space 位于侧边栏，集中存放页面、幻灯片、图片、文件和上传内容。页面与幻灯片可设为从已连接工具自动更新，也能邀请他人共同编辑。
+
+telegram · zaihuapd · 11月21日 02:30
+
+**「ChatGPT Space 初始可用性」** ChatGPT Space 最初仅对 Pro、Business 和 Enterprise 订阅者开放。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/">OpenAI Brings Its Collaborative Space Hubs To Plus Users</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ChatGPT`, `#AI collaboration`, `#feature announcement`, `#Plus users`, `#interactive tools`
 
 ---
 
 ## 科技博客
 
 <a id="item-tech-blog-1"></a>
-### [输出缓存为何无效](https://seangoedecke.com/why-output-caching-doesnt-work/) ⭐️ 7.0/10
+### [为什么输出缓存不工作](https://seangoedecke.com/why-output-caching-doesnt-work/) ⭐️ 8.0/10
 
 rss · Sean Goedecke · 11月21日 00:00
 
-**「背景」** LLM 推理依赖输入缓存来避免每次新消息都重新计算整个对话历史。输出缓存的想法源于代理中重复输出代码片段、证据文档和模型结果的情况，这些重复浪费了昂贵的输出令牌。然而，这种方法仅优化可见输出。
+**「背景」** 在 LLM 推理中，缓存模型输入可以防止每次新消息都重新计算整个对话历史，从而降低成本。然而，作者认为不应该对模型输出进行类似缓存，因为输出的大部分是不可见的推理和工具调用。
 
-**「方案」** 作者认为模型内部链思考很少重复，因此输出缓存只能节省约 6%的可见令牌。即使乐观地节省可见输出的 2/3，也仅能节省总输出令牌的 4%，受 Amdahl 定律限制。要真正节省令牌，必须减少 94%的不可见推理和工具调用令牌，这取决于模型智能。更好的模型能以更少令牌达到正确答案，因此更昂贵的模型有时更便宜。实现这一点的关键是使用更智能的模型或 harness，而非输出缓存。
+**「方案」** 作者认为缓存输出是一个好主意，因为代理工作流中模型经常重复代码片段、引用证据文档或重复模型输出以便用户检查，这些重复浪费了大量昂贵的输出 token。一种解决方案是让模型学会引用对话历史中的片段，而不是重复内容，然后由 harness 展开这些引用。但实际上，这只优化了可见输出部分，根据作者经验，输出中只有约 6%是可见的，其中 50%是推理 token，44%是工具调用，因此即使乐观地节省可见输出中的三分之二 token，也只能节省总输出 token 的 4%左右，陷入 Amdahl 法则的困境。相反，要节省 token 需要减少不可见的 94%部分，这主要取决于模型智能：更聪明的模型需要的推理和工具调用更少。
 
-**「启示」** 输出缓存无法有效节省成本，因为主要节省来自减少不可见令牌，这需要更强大的模型。作者的经验表明，输出缓存不是一个好的优化策略。
+**「启示」** 输出缓存无法带来显著的节省，因为大部分 token 是不可见的。相反，专注于更智能的模型可以减少这些 token 的使用，从而降低整体成本。
 
-**标签**: `#LLM optimization`, `#output caching`, `#Amdahl&\#x27;s law`, `#token efficiency`, `#agentic workflows`
+**标签**: `#LLM optimization`, `#token efficiency`, `#KV caching`, `#Amdahl&\#x27;s law`, `#inference economics`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [沃什希望美联储官员少说话，但他们却在说更多](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) ⭐️ 7.0/10
+### [沃什希望美联储官员少谈前瞻指引，他们却在更多谈论利率](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) ⭐️ 7.0/10
 
-新任美联储主席凯文·沃什希望美联储官员少说话，但他们却在说更多。银行分析显示，过去两周的“美联储讲话”创下纪录，官员们公开讨论可能加息以应对通胀。
+美联储主席凯文·沃什在就职六个月内避免对货币政策和利率发出前瞻指引，但他的 FOMC 同事们却在更多场合表达意见。根据美国银行分析师的分析，过去两周的“美联储说话”比 2025 年初以来任何类似时期都多。
 
 rss · CNBC Finance · 11月20日 21:10
 
-**「背景」** 作为美联储新主席，凯文·沃什主张减少利率前瞻性指引以保持政策制定者的灵活性，但其他官员因通胀未达目标而更频繁发表意见。
+**「背景」** 2026 年 6 月就任的凯文·沃什主席反对前瞻指引政策，但其他 FOMC 官员的公开讲话显著增加，导致过去两周的美联储官员讲话比 2025 年初以来任何类似时期都多。
 
-**「影响」** 市场和投资者受到美联储沟通增加的影响，交易员暗示 12 月加息概率高，导致利率波动加剧。
+**「市场解读为鹰派」** 市场将 12 月加息 25 基点的概率解读为 100%，这加剧了利率波动，并对投资者和金融市场产生影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.foxbusiness.com/economy/what-warshs-jackson-hole-speech-signals-about-where-interest-rates-headed">Kevin Warsh outlines hawkish PCE inflation stance at... | Fox Business</a></li>
-<li><a href="https://www.theguardian.com/business/live/2026/aug/28/us-federal-reserve-kevin-warsh-jackson-hole-conference-inflation-economy-ftse-stock-markets-latest-updates">US Federal Reserve ’s Kevin Warsh warns there will... | The Guardian</a></li>
-<li><a href="https://www.linkedin.com/posts/elias-laurin-griepentrog-2487831aa_there-are-differing-views-on-kevin-warsh-activity-7490452975535067136-iCPO">There are differing views on Kevin Warsh ’s post July FOMC press...</a></li>
+<li><a href="https://fortune.com/2026/06/20/fed-chair-kevin-warsh-forward-guidance-other-policymakers/">Warsh&#x27;s decision to drop forward guidance may actually ...</a></li>
+<li><a href="https://thehill.com/business/5929155-warsh-ends-fed-forecasts/">Federal Reserve shifts away from forward guidance under new ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Federal Reserve`, `#forward guidance`, `#interest rate policy`, `#monetary policy debate`, `#FOMC communications`
+**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#forward guidance`, `#FOMC`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [美股牛市新问题：公司净发行股票](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) ⭐️ 7.0/10
+### [牛市新问题：聪明钱在卖出](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) ⭐️ 7.0/10
 
-美国公司从回购股票转向发行股票，增加对四年前牛市的供应压力。根据 Acadian Asset Management 分析，截至上周，净新发行股票占总市值的 3.1%。
+美国公司过去两年从回购股票转向净发行新股，截至 2026 年底晚些时候，净发行量达到总市值的 3.1%。根据 Acadian Asset Management 的分析，这一转变给四年的牛市增加了供应压力。
 
 rss · CNBC Finance · 11月20日 14:15
 
-**「背景」** 过去两年，美国公司从 2024 年的净回购转向 2026 年的净发行。Baker-Wurgler 论文发现，当公司更多发行股权时，市场回报较低。
+**「背景」** 过去两年，美国公司从 2024 年的股票回购转向 2026 年的股票发行。根据 Acadian Asset Management 投资组合经理 Owen Lamont 的说法，这一转变结束了回购时代。
 
-**标签**: `#Equity Issuance`, `#Bull Market`, `#Share Repurchases`, `#Corporate Finance`, `#Market Supply`
+**标签**: `#equity issuance`, `#bull market`, `#corporate finance`, `#tech equity raises`, `#market supply`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [阿里巴巴因隐瞒与黄仁勋外遇对象业务关系被股东起诉](https://www.zaobao.com.sg/news/china/story20261120-10029652) ⭐️ 7.0/10
+### [北京拟明确租房正常损耗不得扣减押金](https://mp.weixin.qq.com/s/PmGxh5knIyxiBRhpRoJnoQ) ⭐️ 7.0/10
 
-阿里巴巴 11 月 19 日在纽约曼哈顿联邦法院遭股东集体诉讼，被指在 2024 至 2026 年年报中故意低估出口管制违规风险，隐瞒与 Alice Huang 及新加坡公司超速国际的业务关系。相关报道令阿里股价上周四个交易日内跌 14%。
+北京市住房建设委员会与市场监督管理局起草的《北京市住房租赁合同（示范文本）（修订征求意见稿）》20 日起公开征求意见，拟明确承租人正常使用造成的房屋正常损耗不承担赔偿责任，出租人不得以此为由扣减押金。
 
-telegram · zaihuapd · 11月20日 09:32
+telegram · zaihuapd · 11月20日 13:46
 
-**「背景」** 2026 年 11 月 19 日，阿里巴巴及首席执行官 Daniel Zhang 在纽约曼哈顿联邦法院遭股东集体诉讼，被指控在 2024 至 2026 年年报中故意低估出口管制违规风险，并隐瞒与 Alice Huang 及新加坡公司超速国际的业务关系，以此推高股价。
+**「背景」** 北京市住房和城乡建设委员会会同市场监督管理局起草的《北京市住房租赁合同（示范文本）（修订征求意见稿）》20 日起向社会公开征集意见，征求意见稿细化租赁资金安全保护、房屋安全使用、个人信息保护等内容，拟明确房屋正常损耗，出租人不得以此为由扣减承租人押金。
 
-**「对投资者的影响」** 阿里巴巴的投资者因公司被股东集体诉讼而股价上周四个交易日内下跌 14%，面临潜在的经济损失。
+**「市场影响」** 该提案将影响北京租赁住房市场、租客和出租人，通过限制出租人扣减押金的权利改变租赁合同执行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businesstimes.com.sg/international/shareholders-sue-alibaba-allegedly-hiding-ties-alice-huang-suspected-spy-nvidia-scandal">Shareholders sue Alibaba for allegedly hiding ties to Alice ...</a></li>
-<li><a href="https://www.reuters.com/business/retail-consumer/alibaba-defrauded-shareholders-by-concealing-ties-suspected-spy-nvidia-scandal-2026-11-19/">Alibaba defrauded shareholders by concealing ties to ...</a></li>
-<li><a href="https://economictimes.indiatimes.com/tech/technology/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/articleshow/136010686.cms">Alibaba defrauded shareholders by concealing ties to ...</a></li>
-<li><a href="https://www.reuters.com/business/retail-consumer/alibaba-defrauded-shareholders-by-concealing-ties-suspected-spy-nvidia-scandal-2026-11-19/">Alibaba defrauded shareholders by concealing ties to ...</a></li>
-<li><a href="https://economictimes.indiatimes.com/tech/technology/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/articleshow/136010686.cms">Alibaba defrauded shareholders by concealing ties to ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/alibaba-hit-lawsuit-over-megaspeed-105612340.html?fr=sycsrp_catchall">Alibaba Hit With Lawsuit Over Megaspeed Links in Nvidia Spy ...</a></li>
+<li><a href="https://news.cctv.com/2026/11/21/ARTIuv1MpqNFfBHbgL2Wjm55261120.shtml">北京拟明确租房正常损耗不得扣减押金_新闻频道_央视网 (cctv.com)</a></li>
+<li><a href="https://jingji.cctv.com/2026/11/20/ARTIazSilPAQcfCNuMP7F7mR261120.shtml">北京拟明确租房正常损耗不得扣减押金_经济频道_央视网 (cctv.com)</a></li>
+<li><a href="https://www.news.cn/local/20261120/c22a94156dc4494a9485ddd38f75b48b/c.html">北京拟明确租房正常损耗不得扣减押金 - 新华网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Alibaba`, `#shareholder lawsuit`, `#stock drop`, `#export control risks`, `#corporate governance`
+**标签**: `#Beijing Rental Policy`, `#Housing Contract Regulations`, `#Tenant Protection`, `#Real Estate Market`, `#Deposit Custody`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [台积电暂停对中国企业 16nm 及以下芯片订单](https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls) ⭐️ 7.0/10
+### [2026 年标普 500 突破 8000 点预测市场概率降至 6%](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) ⭐️ 5.0/10
 
-台积电已暂停向中国企业提供 16nm 及以下先进制程芯片订单，以遵守美国收紧的半导体出口管制。除非获得美国出口许可，否则中国公司只能使用 28nm 等较旧制程。
+因人工智能驱动的科技股抛售，预测市场交易者将 2026 年标普 500 指数突破 8000 点的概率从 72%大幅削减至 6%，标普 500 指数今年至今涨幅仅略超 2%，纳斯达克综合指数转为负值。
 
-telegram · zaihuapd · 11月21日 02:01
+rss · CNBC Finance · 11月20日 19:59
 
-**「美国出口管制新规」** 此前台积电可自行评估客户设计是否符合美国出口豁免条件，现须中国企业客户提前申请美国出口许可，否则无法获得 16nm 及以下先进制程订单。
+**「背景」** 标普 500 指数在人工智能驱动的科技股抛售中进入修正区间，纳斯达克综合指数今年至今转为负值。
 
-**「对中国芯片产业的影响」** 中国芯片设计企业，特别是 AI 数据中心建设，将无法使用 16nm 及以下先进制程和高带宽内存，导致 AI 芯片生产和数据中心建设受限。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/tsmc-halting-china-chip-orders-131332877.html?fr=sycsrp_catchall">TSMC Is Halting Some China Chip Orders as a New U.S. Rule ...</a></li>
-<li><a href="https://www.gate.com/news/detail/TSM/tsmc-halts-16nm-orders-for-chinese-clients-after-us-export-controls-25760917">TSMC Halts 16nm Orders for Chinese Clients After US Export ...</a></li>
-<li><a href="https://www.gate.com/news/detail/tsmc-suspends-china-orders-below-16-nanometers-following-new-us-export-25743338">TSMC Suspends China Orders Below 16 Nanometers Following New ...</a></li>
-<li><a href="https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/">TSMC tightens China AI chip curbs as new US rules close ...</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/tsmc-halting-china-chip-orders-131332877.html?fr=sycsrp_catchall">TSMC Is Halting Some China Chip Orders as a New U.S. Rule ...</a></li>
-<li><a href="https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls">Apple supplier TSMC cuts off China chip orders amid tighter ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#TSMC`, `#US export controls`, `#semiconductor supply chain`, `#China chip orders`, `#advanced nodes`
+**标签**: `#prediction markets`, `#S&amp;P 500`, `#AI sell-off`, `#market sentiment`, `#2026 outlook`
 
 ---
 
 <a id="item-finance-news-5"></a>
-### [福特正式进入电池业务](https://api3.cls.cn/share/article/2539395?sv=8.5.9) ⭐️ 6.0/10
+### [美中贸易台湾科技紧张局势在特朗普返回亚洲后仍未解决](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) ⭐️ 5.0/10
 
-福特在其密歇根州马歇尔的 BlueOval 电池工厂已开始发运首批磷酸铁锂方形电芯，将用于下一代 Fathom 电动皮卡。工厂采用宁德时代授权的磷酸铁锂技术，规划年产能约 20 吉瓦时，这标志着福特正式进入电池业务。
-
-telegram · zaihuapd · 11月20日 06:04
-
-**「福特 BlueOval 电池工厂生产磷酸铁锂电芯」** 福特在密歇根州马歇尔的 BlueOval 电池工厂已开始发运首批磷酸铁锂方形电芯，该工厂采用宁德时代授权的磷酸铁锂技术，规划年产能约 20 吉瓦时，将为下一代 Fathom 电动皮卡提供电池支持。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.fromtheroad.ford.com/us/en/articles/2026/blueoval-battery-park-michigan-hiring-and-lfp-production">BlueOval Battery Park Michigan Hits Hiring and LFP Production ...</a></li>
-<li><a href="https://www.mlive.com/auto/2026/11/ford-opens-3b-battery-plant-in-marshall-production-underway-on-cells-for-ford-fathom-ev.html">Ford opens $3B battery plant in Marshall, production ... - mlive</a></li>
-<li><a href="https://www.fromtheroad.ford.com/us/en/articles/2025/ford-owned-american-battery-plant-future-electric-vehicles">Ford-Owned American LFP Battery Plant Paves Way for Next-Gen ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Ford BlueOval Battery`, `#CATL Technology`, `#Fathom Electric Truck`, `#EV Battery Production`, `#Auto Industry EV Strategy`
-
----
-
-<a id="item-finance-news-6"></a>
-### [2026 年股票预测市场展望因 AI 抛售而黯淡](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) ⭐️ 5.0/10
-
-预测市场对 2026 年 S&amp;P 500 突破 8000 点的概率仅为 6%，较 10 月 13 日的 72%大幅下降。
-
-rss · CNBC Finance · 11月20日 19:59
-
-**「背景」** 科技股因人工智能相关股票抛售而持续下跌，导致纳斯达克指数今年转负，S&amp;P 500 进入修正区间。
-
-**标签**: `#prediction markets`, `#S&amp;P 500`, `#AI sell-off`, `#stock market correction`, `#market sentiment`
-
----
-
-<a id="item-finance-news-7"></a>
-### [APEC 峰会中美贸易台湾科技紧张局势未解决](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) ⭐️ 5.0/10
-
-在深圳举行的亚太经济合作组织峰会结束时，美国总统特朗普从亚洲返回，中美贸易、台湾和科技紧张局势仍未解决。特朗普与习近平举行双边会晤，并与普京举行三方会晤，但未就关税减免、稀土供应或先进芯片限制达成新协议。
+APEC 峰会结束后，美国与中国贸易、台湾和科技紧张局势仍未解决。特朗普与习近平举行第三次会晤后，双方未就关税削减或先进芯片限制达成协议。
 
 rss · CNBC Finance · 11月20日 13:29
 
-**「背景」** 此次峰会是特朗普亚洲外交行程的一部分，此前他访问了菲律宾、澳大利亚、印度、日本和泰国。台湾作为 APEC 成员国未在峰会上突出，选举将于 11 月 28 日举行。
+**「背景」** APEC 峰会于 11 月在深圳举行，特朗普与习近平举行了第三次双边会晤，并与普京举行了首次三方会晤。
 
-**标签**: `#U.S.-China Trade`, `#APEC Summit`, `#Nvidia`, `#Elon Musk`, `#Taiwan`
-
----
-
-<a id="item-finance-news-8"></a>
-### [北京拟明确租房正常损耗不得扣减押金](https://mp.weixin.qq.com/s/PmGxh5knIyxiBRhpRoJnoQ) ⭐️ 5.0/10
-
-北京市住房租赁合同示范文本修订征求意见稿拟明确，承租人正常使用造成的房屋正常损耗不承担赔偿责任，出租人不得以此为由扣减押金。征求意见稿还要求转租经营的租赁企业将租押金付至监管账户，并新增保密和个人信息保护条款。
-
-telegram · zaihuapd · 11月20日 13:46
-
-**「背景」** 北京市住房和城乡建设委员会与市场监管局起草的《北京市住房租赁合同（示范文本）（修订征求意见稿）》公开征求意见，拟明确承租人正常使用造成的房屋正常损耗不承担赔偿责任，出租人不得以此为由扣减押金。此修订延续 2021 年《北京市住房租赁条例（征求意见稿）》的规范租赁市场发展思路。
-
-**「政策影响」** 该修订将影响北京地区的租户和出租人，明确正常损耗不需赔偿或扣减押金，降低租赁纠纷风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://t.me/zaihuapd/45263">在花 科技圈 – Telegram</a></li>
-<li><a href="https://news.bjd.com.cn/2021/08/24/158337t100.html">news.bjd.com.cn/2021/08/24/158337t100.html</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Beijing Rental Policy`, `#Housing Regulations`, `#Tenant Rights`, `#Deposit Management`, `#Real Estate Market`
+**标签**: `#U.S.-China trade`, `#APEC summit`, `#Trump-Xi meeting`, `#Taiwan`, `#Nvidia`
 
 ---
