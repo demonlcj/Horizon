@@ -2,16 +2,16 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    # GitHub scheduled workflows use UTC. 20:00 UTC is 04:00 Asia/Shanghai;
-    # this intentionally runs early to offset the observed schedule delay.
-    - cron: '0 23 * * *'
-  workflow_dispatch:      # Allow manual trigger
+    # GitHub scheduled workflows use UTC. 00:03 UTC is 08:03 Asia/Shanghai;
+    # this runs just after the free quota refreshes each day.
+    - cron: '3 0 * * *' # Runs at 00:03 UTC (08:03 CST)
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   daily-summary:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Needed to commit changes
+      contents: write # Needed to commit changes
 
     steps:
       - name: Checkout code
@@ -53,7 +53,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          keep_files: true  # Keep existing summaries on gh-pages branch
+          keep_files: true # Keep existing summaries on gh-pages branch
           commit_message: "📝 Daily Summary: ${{ env.DATE }}"
           publish_branch: gh-pages
           enable_jekyll: true
