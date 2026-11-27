@@ -2,9 +2,11 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    # GitHub scheduled workflows use UTC. 00:03 UTC is 08:03 Asia/Shanghai;
-    # this runs just after the free quota refreshes each day.
-    - cron: '3 0 * * *' # Runs at 00:03 UTC (08:03 CST)
+    # GitHub scheduled workflows use UTC. The AI quota refreshes at about
+    # 08:00 and 16:00 Asia/Shanghai, so try just after each refresh.
+    # The second slot only runs if no run has succeeded yet today (CST).
+    - cron: '5 0 * * *' # 00:05 UTC = 08:05 CST
+    - cron: '5 8 * * *' # 08:05 UTC = 16:05 CST
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -12,28 +14,54 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed to commit changes
+      actions: read # Needed to check today's earlier runs
 
     steps:
+      - name: Skip if today's summary already succeeded
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          TODAY=$(TZ=Asia/Shanghai date +%F)
+          START=$(date -u -d "$(TZ=Asia/Shanghai date -d "$TODAY 00:00" -R)" +%Y-%m-%dT%H:%M:%SZ)
+          N=$(gh run list -R "$GITHUB_REPOSITORY" --workflow daily-summary.yml \
+                --status success --created ">=$START" --json databaseId --jq length || echo 0)
+          if [ "${N:-0}" -gt 0 ]; then
+            echo "Already succeeded today ($TODAY CST); skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout code
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/checkout@v6
 
       - name: Set up Python
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install uv
+        if: steps.guard.outputs.skip != 'true'
         uses: astral-sh/setup-uv@v6
         with:
           version: "0.11.26"
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: uv sync
 
       - name: Prepare GitHub Actions config
+        if: steps.guard.outputs.skip != 'true'
         run: cp data/config.github.json data/config.json
 
       - name: Run Horizon
+        if: steps.guard.outputs.skip != 'true'
         env:
           # Map secrets to environment variables expected by config.json
           # Modify these based on your data/config.github.json provider settings
@@ -46,9 +74,11 @@ jobs:
         run: uv run horizon --hours 24
 
       - name: Set current date as environment variable
+        if: steps.guard.outputs.skip != 'true'
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
+        if: steps.guard.outputs.skip != 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
