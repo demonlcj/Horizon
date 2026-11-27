@@ -272,6 +272,15 @@ class OpenAIClient(AIClient):
         if base_url:
             kwargs["base_url"] = base_url
 
+        # Optional per-request timeout / retry limits so a slow gateway
+        # (e.g. repeated 504s) can't stall a run for hours.
+        timeout_env = os.getenv("HORIZON_AI_TIMEOUT", "").strip()
+        if timeout_env:
+            kwargs["timeout"] = float(timeout_env)
+        retries_env = os.getenv("HORIZON_AI_MAX_RETRIES", "").strip()
+        if retries_env:
+            kwargs["max_retries"] = int(retries_env)
+
         self.client = AsyncOpenAI(**kwargs)
         self.model = config.model
         self.temperature = config.temperature
